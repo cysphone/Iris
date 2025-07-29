@@ -10,11 +10,11 @@
           <div class="col-xl-8 col-lg-10">
             <div data-split='lines' data-anim="split-lines delay-2" class="hero__content">
               <div class="hero__subtitle text-white">
-                STAY
+                benstokes
               </div>
 
               <h1 class="hero__title text-white">
-                Experience Unparalleled<br class="md:d-none"> Comfort
+                Experience Unpa<br class="md:d-none"> Comfort
               </h1>
             </div>
           </div>
@@ -157,15 +157,17 @@
       <div class="container">
         <div class="row justify-center text-center">
           <div class="col-auto">
-            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">Iris Suites LUXURY HOTEL</div>
-            <h2 data-anim-child="slide-up delay-2" class="text-64 md:text-40">Enjoy a Luxury </h2>
+            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">IRIS SUITES – BOUTIQUE LUXURY STAY</div>
+            <h2 data-anim-child="slide-up delay-2" class="text-64 md:text-40">Experience Refined Comfort</h2>
           </div>
         </div>
 
         <div class="row y-gap-30 pt-100 sm:pt-50">
           <div class="col-lg-6">
             <div data-anim-child="slide-up delay-3" class="col-lg-8 px-0">
-              <p>Welcome to the best five-star deluxe hotel in New York. Hotel elementum sesue the aucan vestibulum aliquam justo in sapien rutrum volutpat. Donec in quis the pellentesque velit. Hotel ut nisl quam nestibulum.</p>
+              <p>Step into the world of Iris Suites — where modern elegance meets thoughtful hospitality. Nestled in the heart of the city, our premium boutique stay offers a serene escape with well-appointed suites, lush surroundings, and curated amenities that cater to both business and leisure travelers.
+
+From personalized service to elevated interiors, everything here is designed to make your stay effortless and unforgettable.</p>
             </div>
 
             <div data-anim-child="slide-up delay-4">
