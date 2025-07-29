@@ -33,7 +33,7 @@
             <div class="searchFormItem js-select-control js-form-dd js-calendar">
               <div class="searchFormItem__button" data-x-click="calendar">
                 <div>
-                  <span class="js-first-date">Check On - Check Out</span>
+                  <span class="js-first-date">Check In - Check Out</span>
                   <span class="js-last-date"></span>
                 </div>
                 <i class="icon-arrow-down ml-10"></i>
