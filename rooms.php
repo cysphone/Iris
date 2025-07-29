@@ -1,5 +1,6 @@
 <?php include 'includes/header.php'; ?>
 
+
     <section data-anim-wrap class="pageHero -type-1">
       <div class="pageHero__bg" data-anim-child="img-right cover-white delay-1">
         <img src="img/pageHero/1.png" alt="image">
@@ -143,10 +144,12 @@
     </section>
 
     <section class="layout-pt-lg layout-pb-lg">
-      <div data-anim-wrap class="container">
+      <div class="container">
         <div class="row justify-center text-center">
-          <div class="col-xl-6 col-lg-8 col-md-10">
-            <div class="text-15 uppercase mb-30 sm:mb-10">OUR ACCOMMODATIONS</div>
+          <div class="col-xl-6 col-lg-8 col-md-10" data-split='lines' data-anim="split-lines delay-1">
+            <div class="text-15 uppercase mb-30 sm:mb-10">
+              OUR ACCOMMODATIONS
+            </div>
             <h2 class="text-64 md:text-40 lh-11">
               Discover Our Rooms &
               Suites and Villas
@@ -157,350 +160,210 @@
             </p>
           </div>
         </div>
+      </div>
 
-        <div class="row x-gap-60 y-gap-60 pt-100 sm:pt-50">
-
-          <div class="col-md-6">
-            <a href="rooms-single-1.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/1.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
+      <div class="px-60 md:px-15">
+        <div class="roomCard -type-2 pt-100 sm:pt-50">
+          <div data-anim-wrap class="roomCardGrid">
+            <div class="">
+              <div data-anim-child="slide-up delay-3" class="roomCard__content">
                 <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Small Room</h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Small Room</h3>
                 </div>
 
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
+                <div class="d-flex x-gap-20 pt-40 md:pt-30">
 
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-size text-20 mr-10"></i>
+                    30M2
                   </div>
 
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-guest text-20 mr-10"></i>
+                    2 GUEST
                   </div>
 
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bed-2 text-20 mr-10"></i>
+                    1 BED
                   </div>
 
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bath text-20 mr-10"></i>
+                    1 BATH
                   </div>
 
                 </div>
 
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
+                <p class="mt-40 md:mt-30">
+                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
                 </p>
 
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
+                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
               </div>
-            </a>
+            </div>
+
+            <div class="">
+              <div data-anim-child="img-right cover-white delay-1">
+                <div class="roomCard__image -no-rounded ratio ratio-10:9">
+                  <img src="img/cards/rooms/5/1.png" alt="image" class="img-ratio">
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                </div>
+              </div>
+            </div>
           </div>
-
-          <div class="col-md-6">
-            <a href="rooms-single-2.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/2.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Family Room</h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
-                </div>
-
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
-
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
-                  </div>
-
-                </div>
-
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
-                </p>
-
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6">
-            <a href="rooms-single-3.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/3.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Comfort Room </h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
-                </div>
-
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
-
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
-                  </div>
-
-                </div>
-
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
-                </p>
-
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6">
-            <a href="rooms-single-4.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/4.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Beach Villa Room</h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
-                </div>
-
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
-
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
-                  </div>
-
-                </div>
-
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
-                </p>
-
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6">
-            <a href="rooms-single-5.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/5.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Garden Room</h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
-                </div>
-
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
-
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
-                  </div>
-
-                </div>
-
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
-                </p>
-
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6">
-            <a href="rooms-single-1.html" class="roomCard -type-1 -hover-button-center -image-border">
-              <div data-anim-child="img-right cover-accent-1 delay-1">
-                <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                  <img src="img/cards/rooms/3/6.png" alt="image" class="img-ratio">
-
-                  <div class="-image-border__item"></div>
-
-                  <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
-                    <span class="text-15 fw-500 text-white">BOOK NOW</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-40">Panorama Room</h3>
-                  <div class="roomCard__price text-accent-1">$499 / NIGHT</div>
-                </div>
-
-                <div class="d-flex x-gap-20 y-gap-10 pt-30 text-accent-1">
-
-                  <div class="d-flex items-center">
-                    <i class="icon-size d-flex text-20 mr-10"></i>
-                    <div>30M2</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-guest d-flex text-20 mr-10"></i>
-                    <div>2 GUEST</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bed-2 d-flex text-20 mr-10"></i>
-                    <div>1 BED</div>
-                  </div>
-
-                  <div class="d-flex items-center">
-                    <i class="icon-bath d-flex text-20 mr-10"></i>
-                    <div>1 BATH</div>
-                  </div>
-
-                </div>
-
-                <p class="mt-20">
-                  Ut et rhoncus odio. Quisque pellentesque nisl leo, eget ultricies nibh ullamcorper ut. Curabitur bibendum sed neque quis rhoncus
-                </p>
-
-                <button class="button -type-1 mt-30">
-                  <i class="-icon d-flex icon-arrow-circle-right text-30"></i>
-                  Book now
-                </button>
-              </div>
-            </a>
-          </div>
-
         </div>
 
-        <div class="row justify-center pt-100 sm:pt-50">
-          <div class="col-auto">
-            <button class="button -md -type-2 -outline-accent-1 mt-50 md:mt-30 mx-auto">LOAD MORE</button>
+        <div class="roomCard -type-2 layout-pt-lg">
+          <div data-anim-wrap class="roomCardGrid -reverse">
+            <div class="">
+              <div data-anim-child="slide-up delay-3" class="roomCard__content">
+                <div class="d-flex justify-between items-end">
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Double Room</h3>
+                </div>
+
+                <div class="d-flex x-gap-20 pt-40 md:pt-30">
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-size text-20 mr-10"></i>
+                    30M2
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-guest text-20 mr-10"></i>
+                    2 GUEST
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bed-2 text-20 mr-10"></i>
+                    1 BED
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bath text-20 mr-10"></i>
+                    1 BATH
+                  </div>
+
+                </div>
+
+                <p class="mt-40 md:mt-30">
+                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                </p>
+
+                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+              </div>
+            </div>
+
+            <div class="">
+              <div data-anim-child="img-right cover-white delay-1">
+                <div class="roomCard__image -no-rounded ratio ratio-10:9">
+                  <img src="img/cards/rooms/5/2.png" alt="image" class="img-ratio">
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="roomCard -type-2 layout-pt-lg">
+          <div data-anim-wrap class="roomCardGrid">
+            <div class="">
+              <div data-anim-child="slide-up delay-3" class="roomCard__content">
+                <div class="d-flex justify-between items-end">
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Deluxe Suite</h3>
+                </div>
+
+                <div class="d-flex x-gap-20 pt-40 md:pt-30">
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-size text-20 mr-10"></i>
+                    30M2
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-guest text-20 mr-10"></i>
+                    2 GUEST
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bed-2 text-20 mr-10"></i>
+                    1 BED
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bath text-20 mr-10"></i>
+                    1 BATH
+                  </div>
+
+                </div>
+
+                <p class="mt-40 md:mt-30">
+                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                </p>
+
+                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+              </div>
+            </div>
+
+            <div class="">
+              <div data-anim-child="img-right cover-white delay-1">
+                <div class="roomCard__image -no-rounded ratio ratio-10:9">
+                  <img src="img/cards/rooms/5/3.png" alt="image" class="img-ratio">
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="roomCard -type-2 layout-pt-lg">
+          <div data-anim-wrap class="roomCardGrid -reverse">
+            <div class="">
+              <div data-anim-child="slide-up delay-3" class="roomCard__content">
+                <div class="d-flex justify-between items-end">
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Comfort Family</h3>
+                </div>
+
+                <div class="d-flex x-gap-20 pt-40 md:pt-30">
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-size text-20 mr-10"></i>
+                    30M2
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-guest text-20 mr-10"></i>
+                    2 GUEST
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bed-2 text-20 mr-10"></i>
+                    1 BED
+                  </div>
+
+                  <div class="d-flex items-center text-accent-1">
+                    <i class="icon-bath text-20 mr-10"></i>
+                    1 BATH
+                  </div>
+
+                </div>
+
+                <p class="mt-40 md:mt-30">
+                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                </p>
+
+                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+              </div>
+            </div>
+
+            <div class="">
+              <div data-anim-child="img-right cover-white delay-1">
+                <div class="roomCard__image -no-rounded ratio ratio-10:9">
+                  <img src="img/cards/rooms/5/4.png" alt="image" class="img-ratio">
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -635,5 +498,4 @@
 
       </div>
     </section>
-
 <?php include 'includes/footer.php'; ?>

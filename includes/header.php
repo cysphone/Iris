@@ -57,19 +57,19 @@
       <div class="menuFullScreen-links js-menuFullScreen-links">
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="/index.php">
+          <a href="index.php">
             HOME
           </a>
         </div>
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="">
+          <a href="rooms.php">
             ROOMS
           </a>
         </div>
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="#">
+          <a href="booking.php">
             BOOKING
             <i class="icon-arrow-right"></i>
             <i class="icon-chevron-right"></i>
@@ -80,11 +80,11 @@
 
 
             <div class="menuFullScreen-links-subnav__item">
-              <a href="cart.html">Cart</a>
+              <a href="cart.php">Cart</a>
             </div>
 
             <div class="menuFullScreen-links-subnav__item">
-              <a href="checkout.html">Checkout</a>
+              <a href="checkout.php">Checkout</a>
             </div>
 
           </div>
@@ -103,15 +103,15 @@
           <div class="menuFullScreen-links-subnav js-menuFullScreen-subnav">
 
             <div class="menuFullScreen-links-subnav__item">
-              <a href="about.html">About</a>
+              <a href="about.php">About</a>
             </div>
 
             <div class="menuFullScreen-links-subnav__item">
-              <a href="faq.html">FAQ</a>
+              <a href="faq.php">FAQ</a>
             </div>
 
             <div class="menuFullScreen-links-subnav__item">
-              <a href="terms.html">Terms</a>
+              <a href="terms.php">Terms</a>
             </div>
 
           </div>
@@ -127,7 +127,7 @@
 
 
         <div class="menuFullScreen-links__item">
-          <a href="contact.html">
+          <a href="contact.php">
             CONTACT
           </a>
         </div>

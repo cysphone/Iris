@@ -10,7 +10,7 @@
           <div class="col-xl-8 col-lg-10">
             <div data-split='lines' data-anim="split-lines delay-2" class="hero__content">
               <div class="hero__subtitle text-white">
-                ben stream_socket_sendto
+                STAY
               </div>
 
               <h1 class="hero__title text-white">
