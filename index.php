@@ -10,11 +10,11 @@
           <div class="col-xl-8 col-lg-10">
             <div data-split='lines' data-anim="split-lines delay-2" class="hero__content">
               <div class="hero__subtitle text-white">
-                benstokes
+                REDEFINED LUXURY
               </div>
 
               <h1 class="hero__title text-white">
-                Experience Unpa<br class="md:d-none"> Comfort
+                Experience Unparalleled<br class="md:d-none"> Comfort
               </h1>
             </div>
           </div>
