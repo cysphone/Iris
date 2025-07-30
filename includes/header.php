@@ -43,7 +43,7 @@
 
     <div class="menuFullScreen__left">
       <div class="menuFullScreen__bg js-menuFullScreen-bg">
-        <img src="img/menu/bg.png" alt="image">
+        <img src="img/hero/1/bg.png" alt="image">
       </div>
 
       <button class="menuFullScreen__close js-menuFullScreen-toggle js-menuFullScreen-close-btn">
@@ -108,7 +108,7 @@
         </div>
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="#">
+          <a href="lastella.php">
             LA STELLA
           </a>
         </div>
@@ -169,19 +169,19 @@
 
     <div class="menuFullScreen__bottomMobile js-menuFullScreen-buttomMobile">
       <button class="button rounded-200 w-1/1 py-20 -light-1 bg-accent-2">
-        BOOK YOU
+        BOOK YOUR STAY
       </button>
 
       <a href="#" class="d-flex items-center mt-40">
         <i class="icon-phone mr-10"></i>
-        <span>+41-96567-7854</span>
+        <span>+91 9810154702</span>
       </a>
 
       <a href="#" class="d-flex mt-20">
         <i class="icon-map mr-10"></i>
         <span>
-          PO Box 16122 Collins Street West,
-          Australia
+          Block F-19, Near Deshbandhu College,<br>
+          Kalkaji, New Delhi - 110019
         </span>
       </a>
 

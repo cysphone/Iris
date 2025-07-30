@@ -199,7 +199,7 @@
                   A thoughtfully crafted haven for restful stays, the Superior Room offers timeless interiors, soft lighting, and all essential comforts — perfect for solo travelers or couples seeking quiet elegance in a compact yet cozy setting.
                 </p>
 
-                <a href="superior-room.html">
+                <a href="superior-room.php">
   <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
 </a>
               </div>
@@ -327,86 +327,13 @@
 
     </section>
 
-    <section class="layout-pt-lg layout-pb-lg bg-light-1">
-      <div data-anim-wrap class="container">
-        <div class="row justify-center text-center">
-          <div data-split='lines' data-anim-child="split-lines delay-2" class="col-auto">
-            <div class="text-15 uppercase mb-30 sm:mb-10">OUR SERVICES</div>
-            <h2 class="text-64 md:text-40">Hotel Facilities</h2>
-          </div>
-        </div>
-
-        <div class="row y-gap-40 justify-between pt-100 sm:pt-50">
-
-          <div data-anim-child="slide-up delay-4" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-wifi"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Wifi &amp; Internet</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-5" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bus"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Airport Transfer</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-6" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-tv"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Smart TV</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-7" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bed"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Breakfast in Bed</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-8" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-laundry"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Laundry Services</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-9" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-housekeeper"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Housekeeper Services</h4>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section>
+<?php include 'includes/facilities.php'; ?>
 
     <section data-anim-wrap class="layout-pt-lg layout-pb-lg">
       <div class="container">
         <div class="row y-gap-30 justify-center text-center">
           <div data-anim-child="slide-up delay-1" class="col-xl-4 col-lg-6">
-            <div class="text-15 uppercase mb-30 sm:mb-10">@swiss-resort</div>
+            <div class="text-15 uppercase mb-30 sm:mb-10">@irissuiteskalkaji</div>
             <h2 class="text-64 md:text-40">Follow us on Instagram</h2>
           </div>
         </div>
