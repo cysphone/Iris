@@ -185,7 +185,7 @@
                     <div class="mt-20">
                       Make your payment directly into our bank account. Please use your Order ID as the payment reference.Your order will not be shipped until the funds have cleared in our account.
                     </div>
-                  </div>
+                 </div>
 
 
                   <div class="form-radio d-flex items-center ">
