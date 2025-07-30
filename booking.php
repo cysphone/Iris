@@ -10,7 +10,7 @@
           <div class="col-auto">
             <div data-split='lines' data-anim-child="split-lines delay-3" class="pageHero__content text-center">
               <h1 class="pageHero__title text-white">Booking Page</h1>
-              <p class="pageHero__text text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p class="pageHero__text text-white">Your next stay starts here — simple, seamless, and secure.</p>
             </div>
           </div>
         </div>
@@ -21,7 +21,7 @@
       <div class="container">
         <div class="row y-gap-40 justify-between">
           <div class="col-xl-7 col-lg-7">
-            <div class="text-21 fw-500 mb-50">Order #231108-084706171</div>
+            <div class="text-21 fw-500 mb-50">Order #1</div>
 
             <div class="row y-gap-30 items-center">
               <div class="col-md-auto col-12">
@@ -31,14 +31,14 @@
               <div class="col-sm">
                 <div class="row y-gap-20 justify-between">
                   <div class="col-auto">
-                    <h2 class="text-40 fw-500">Luxury Villa Suite</h2>
+                    <h2 class="text-40 fw-500">Premier Room</h2>
 
                     <div class="mt-30"><span class="fw-500">Date:</span> 2023-11-08 - 2023-11-09</div>
                     <div class="mt-15"><span class="fw-500">Details:</span> Rooms: 1, Adults: 1,</div>
                   </div>
 
                   <div class="col-auto">
-                    <div class="text-19">$499 / NIGHT</div>
+                    <div class="text-19">₹4,000 PER NIGHT</div>
                   </div>
                 </div>
               </div>
@@ -55,10 +55,10 @@
               </div>
 
               <div class="col-auto">
-                <div class="text-19 fw-500">$3584</div>
-                <div class="text-19 fw-500 mt-10">$3584</div>
-                <div class="text-19 fw-500 mt-10">$0</div>
-                <div class="text-19 fw-500 mt-10">$3584</div>
+                <div class="text-19 fw-500">₹4,000</div>
+                <div class="text-19 fw-500 mt-10">₹4,000</div>
+                <div class="text-19 fw-500 mt-10">₹0</div>
+                <div class="text-19 fw-500 mt-10">₹4,000</div>
               </div>
             </div>
           </div>
