@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php';?>
     <section data-anim-wrap class="pageHero -type-1 -items-center">
       <div data-anim-child="img-right cover-white delay-1" class="pageHero__bg">
         <img src="img/pageHero/4.png" alt="image">
@@ -97,12 +97,12 @@
       <div class="container">
         <div class="row justify-end">
           <div class="col-md-5">
-            <div class="text-15 text-white">PERFECT</div>
+
             <h2 class="text-64 md:text-40 mt-30 text-white">Location</h2>
             <div class="text-white mt-30">
               <div>
-                PO Box 16122 Collins StreetWest Victoria<br>
-                8007 Australia
+                Block F-19, Near Deshbandhu College
+                Kalkaji, New Delhi - 110019
               </div>
               <br>
               <div><a href="#">reservations@irissuites.com</a></div>
@@ -110,7 +110,9 @@
             </div>
 
             <button class="button -md -type-2 bg-accent-2 -light-1 mt-40">
-              Get Directions
+              <a class="d-block" href="https://www.google.com/maps/dir//F19,+SF,+Block+F,+Kalkaji,+New+Delhi,+Delhi+110019/@28.5411536,77.1722902,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce13167daf9d1:0x9576af8884127fe8!2m2!1d77.2546916!2d28.5411785?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D">
+                      Get Directions
+                    </a>
             </button>
           </div>
         </div>
@@ -121,7 +123,7 @@
       <div class="container">
         <div class="row y-gap-30 justify-center text-center">
           <div data-anim-child="slide-up delay-1" class="col-xl-4 col-lg-6">
-            <div class="text-15 uppercase mb-30 sm:mb-10">@swiss-resort</div>
+            <div class="text-15 uppercase mb-30 sm:mb-10">@irissuiteskalkaji</div>
             <h2 class="text-64 md:text-40">Follow us on Instagram</h2>
           </div>
         </div>

@@ -11,7 +11,7 @@
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
               <h1 class="pageHero__title text-white">Rooms & Suites</h1>
-              <p class="pageHero__text text-white">Indulge in luxury in our rooms and suites, featuring stunning views, elegant furnishings, and modern amenities.</p>
+              <p class="pageHero__text text-white">Discover thoughtfully designed rooms that blend modern comfort with quiet luxury for every kind of traveler.</p>
             </div>
           </div>
         </div>
@@ -168,38 +168,40 @@
             <div class="">
               <div data-anim-child="slide-up delay-3" class="roomCard__content">
                 <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Small Room</h3>
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Superior Rooms</h3>
                 </div>
 
                 <div class="d-flex x-gap-20 pt-40 md:pt-30">
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-size text-20 mr-10"></i>
-                    30M2
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-size text-20 mr-10"></i>
+                          180 SQ. FT.
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-guest text-20 mr-10"></i>
-                    2 GUEST
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-guest text-20 mr-10"></i>
+                          3 GUEST
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bed-2 text-20 mr-10"></i>
-                    1 BED
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bed-2 text-20 mr-10"></i>
+                          1 BED
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bath text-20 mr-10"></i>
-                    1 BATH
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bath text-20 mr-10"></i>
+                          1 BATH
+                        </div>
 
                 </div>
 
                 <p class="mt-40 md:mt-30">
-                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                  A thoughtfully crafted haven for restful stays, the Superior Room offers timeless interiors, soft lighting, and all essential comforts — perfect for solo travelers or couples seeking quiet elegance in a compact yet cozy setting.
                 </p>
 
-                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+                <a href="superior-room.html">
+  <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+</a>
               </div>
             </div>
 
@@ -207,7 +209,7 @@
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
                   <img src="img/cards/rooms/5/1.png" alt="image" class="img-ratio">
-                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹3,000 / NIGHT</div>
                 </div>
               </div>
             </div>
@@ -219,38 +221,41 @@
             <div class="">
               <div data-anim-child="slide-up delay-3" class="roomCard__content">
                 <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Double Room</h3>
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Premier Rooms</h3>
                 </div>
 
                 <div class="d-flex x-gap-20 pt-40 md:pt-30">
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-size text-20 mr-10"></i>
-                    30M2
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-size text-20 mr-10"></i>
+                          220 SQ. FT.
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-guest text-20 mr-10"></i>
-                    2 GUEST
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-guest text-20 mr-10"></i>
+                          3 GUEST
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bed-2 text-20 mr-10"></i>
-                    1 BED
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bed-2 text-20 mr-10"></i>
+                          1 BED
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bath text-20 mr-10"></i>
-                    1 BATH
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bath text-20 mr-10"></i>
+                          1 BATH
+                        </div>
+
 
                 </div>
 
                 <p class="mt-40 md:mt-30">
-                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                  Bathed in natural light with warm, modern interiors, the Premier Room offers a tranquil escape with calming views — designed for guests who enjoy a sense of openness, style, and elevated everyday living.
                 </p>
 
-                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+                <a href="premier-room.html">
+  <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+</a>
               </div>
             </div>
 
@@ -258,7 +263,7 @@
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
                   <img src="img/cards/rooms/5/2.png" alt="image" class="img-ratio">
-                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹4,000 / NIGHT</div>
                 </div>
               </div>
             </div>
@@ -270,38 +275,41 @@
             <div class="">
               <div data-anim-child="slide-up delay-3" class="roomCard__content">
                 <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Deluxe Suite</h3>
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Business Class Rooms</h3>
                 </div>
 
                 <div class="d-flex x-gap-20 pt-40 md:pt-30">
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-size text-20 mr-10"></i>
-                    30M2
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-size text-20 mr-10"></i>
+                          300 SQ. FT.
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-guest text-20 mr-10"></i>
-                    2 GUEST
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-guest text-20 mr-10"></i>
+                          3 GUEST
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bed-2 text-20 mr-10"></i>
-                    1 BED
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bed-2 text-20 mr-10"></i>
+                          1 BED
+                        </div>
 
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bath text-20 mr-10"></i>
-                    1 BATH
-                  </div>
+                        <div class="d-flex items-center text-accent-1">
+                          <i class="icon-bath text-20 mr-10"></i>
+                          1 BATH
+                        </div>
+
 
                 </div>
 
                 <p class="mt-40 md:mt-30">
-                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
+                  Spacious, sophisticated, and functional, the Business Class Room is ideal for professionals and extended stays — featuring a dedicated workstation, ambient lighting, and a seamless blend of comfort, productivity, and boutique charm.
                 </p>
 
-                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+                <a href="business-class-room.html">
+  <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
+</a>
               </div>
             </div>
 
@@ -309,64 +317,14 @@
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
                   <img src="img/cards/rooms/5/3.png" alt="image" class="img-ratio">
-                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
+                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹5,000 / NIGHT</div>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="roomCard -type-2 layout-pt-lg">
-          <div data-anim-wrap class="roomCardGrid -reverse">
-            <div class="">
-              <div data-anim-child="slide-up delay-3" class="roomCard__content">
-                <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Comfort Family</h3>
-                </div>
 
-                <div class="d-flex x-gap-20 pt-40 md:pt-30">
-
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-size text-20 mr-10"></i>
-                    30M2
-                  </div>
-
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-guest text-20 mr-10"></i>
-                    2 GUEST
-                  </div>
-
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bed-2 text-20 mr-10"></i>
-                    1 BED
-                  </div>
-
-                  <div class="d-flex items-center text-accent-1">
-                    <i class="icon-bath text-20 mr-10"></i>
-                    1 BATH
-                  </div>
-
-                </div>
-
-                <p class="mt-40 md:mt-30">
-                  A peaceful and comfortable escape where you will blend in with nature; a room of sophisticated design that draws the clean air of Alaçatı into your soul. With land, garden and sea view options…
-                </p>
-
-                <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
-              </div>
-            </div>
-
-            <div class="">
-              <div data-anim-child="img-right cover-white delay-1">
-                <div class="roomCard__image -no-rounded ratio ratio-10:9">
-                  <img src="img/cards/rooms/5/4.png" alt="image" class="img-ratio">
-                  <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">$499 / NIGHT</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
     <section class="layout-pt-lg layout-pb-lg bg-light-1">
