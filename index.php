@@ -225,7 +225,7 @@ From personalized service to elevated interiors, everything here is designed to 
                   <a href="superior-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                        <img src="img/cards/rooms/3/1.jpg" alt="image" class="img-ratio">
+                        <img src="img/rooms/Superior/6.png" alt="image" class="img-ratio">
 
                         <div class="-image-border__item"></div>
 
