@@ -9,7 +9,7 @@
         <div class="row justify-center">
           <div class="col-auto">
             <div data-split='lines' data-anim="split-lines delay-3" class="pageHero__content text-center">
-              <div class="pageHero__subtitle text-white uppercase mb-20">SINCE 1998</div>
+              <div class="pageHero__subtitle text-white uppercase mb-20">SINCE 2010</div>
               <h1 class="pageHero__title lh-11 capitalize text-white">About Iris Suites</h1>
             </div>
           </div>

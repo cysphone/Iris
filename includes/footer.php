@@ -1,4 +1,4 @@
- <footer class="footer -type-1 bg-accent-1 text-white">
+  <footer class="footer -type-1 bg-accent-1 text-white">
       <div class="footer__main">
         <div class="container">
           <div class="footer__grid">
@@ -6,8 +6,8 @@
               <h4 class="text-30 fw-500 text-white">About Us</h4>
 
               <div class="text-white-60 text-15 lh-17 mt-60 md:mt-20">
-                Duis vitae nulla at nisl finibus pharetra
-                Nunc porttitor sapien quis euismod.
+                A thoughtfully designed boutique stay redefining
+                the modern BnB experience with comfort, charm, and quiet luxury.
               </div>
             </div>
 
@@ -40,23 +40,19 @@
                 <div class="col-sm-6">
                   <div class="y-gap-15 text-15 text-white-60 mt-60 md:mt-20">
 
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="about.php">
                       About Hotel
                     </a>
 
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="rooms.php">
                       Our Rooms
                     </a>
 
                     <a class="d-block" href="#">
-                      Restaurant &amp; Bar
+                      La Stella Restaurant
                     </a>
 
-                    <a class="d-block" href="#">
-                      Spa &amp; Wellness
-                    </a>
-
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="contact.php">
                       Contact
                     </a>
 
@@ -66,16 +62,15 @@
                 <div class="col-sm-6">
                   <div class="y-gap-15 text-15 text-white-60 mt-60 md:mt-20">
 
-                    <a class="d-block" href="#">
-                      Privacy Policy
-                    </a>
-
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="terms.php">
                       Terms &amp; Conditions
                     </a>
 
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="https://www.google.com/maps/dir//F19,+SF,+Block+F,+Kalkaji,+New+Delhi,+Delhi+110019/@28.5411536,77.1722902,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce13167daf9d1:0x9576af8884127fe8!2m2!1d77.2546916!2d28.5411785?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D">
                       Get Directions
+                    </a>
+                    <a class="d-block" href="faq.php">
+                      FAQ
                     </a>
 
                   </div>
@@ -101,7 +96,7 @@
         <div class="container">
           <div class="row y-gap-30 justify-between md:justify-center items-center">
             <div class="col-md-auto">
-              <div class="text-15 text-center text-white-60">Copyright © 2025</div>
+              <div class="text-15 text-center text-white-60">Copyright © Iris Suites 2025</div>
             </div>
 
             <div class="col-md-auto">

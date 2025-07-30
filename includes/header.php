@@ -93,26 +93,14 @@
         </div>
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="#">
-            PAGES
-            <i class="icon-arrow-right"></i>
-            <i class="icon-chevron-right"></i>
+          <a href="about.php">
+            ABOUT
           </a>
 
 
           <div class="menuFullScreen-links-subnav js-menuFullScreen-subnav">
 
-            <div class="menuFullScreen-links-subnav__item">
-              <a href="about.php">About</a>
-            </div>
-
-            <div class="menuFullScreen-links-subnav__item">
-              <a href="faq.php">FAQ</a>
-            </div>
-
-            <div class="menuFullScreen-links-subnav__item">
-              <a href="terms.php">Terms</a>
-            </div>
+       
 
           </div>
 
@@ -121,7 +109,7 @@
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
           <a href="#">
-            BLOG
+            LA STELLA
           </a>
         </div>
 
@@ -181,7 +169,7 @@
 
     <div class="menuFullScreen__bottomMobile js-menuFullScreen-buttomMobile">
       <button class="button rounded-200 w-1/1 py-20 -light-1 bg-accent-2">
-        BOOK YOUR STAY
+        BOOK YOU
       </button>
 
       <a href="#" class="d-flex items-center mt-40">
@@ -245,7 +233,8 @@
 
           <div class="line -vertical bg-white-10 h-full ml-90 mr-90 xl:d-none"></div>
 
-          <button class="button text-white mr-30 xl:d-none">BOOK YOUR STAY</button>
+          <a href="rooms.php" class="button text-white mr-30 xl:d-none">BOOK YOUR STAY</a>
+
         </div>
       </div>
     </header>

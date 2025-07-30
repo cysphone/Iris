@@ -10,7 +10,7 @@
           <div class="col-xl-8 col-lg-10">
             <div data-split='lines' data-anim="split-lines delay-2" class="hero__content">
               <div class="hero__subtitle text-white">
-                STAY
+                REDEFINED LUXURY
               </div>
 
               <h1 class="hero__title text-white">
@@ -157,27 +157,21 @@
       <div class="container">
         <div class="row justify-center text-center">
           <div class="col-auto">
-            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">Iris Suites LUXURY HOTEL</div>
-            <h2 data-anim-child="slide-up delay-2" class="text-64 md:text-40">Enjoy a Luxury </h2>
+            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">IRIS SUITES – BOUTIQUE LUXURY STAY</div>
+            <h2 data-anim-child="slide-up delay-2" class="text-64 md:text-40">Experience Refined Comfort</h2>
           </div>
         </div>
 
         <div class="row y-gap-30 pt-100 sm:pt-50">
           <div class="col-lg-6">
             <div data-anim-child="slide-up delay-3" class="col-lg-8 px-0">
-              <p>Welcome to the best five-star deluxe hotel in New York. Hotel elementum sesue the aucan vestibulum aliquam justo in sapien rutrum volutpat. Donec in quis the pellentesque velit. Hotel ut nisl quam nestibulum.</p>
+              <p>Step into the world of Iris Suites — where modern elegance meets thoughtful hospitality. Nestled in the heart of the city, our premium boutique stay offers a serene escape with well-appointed suites, lush surroundings, and curated amenities that cater to both business and leisure travelers.
+
+From personalized service to elevated interiors, everything here is designed to make your stay effortless and unforgettable.</p>
             </div>
 
             <div data-anim-child="slide-up delay-4">
-              <button class="button -type-1 mt-60 md:mt-30">
-                <i class="-icon">
-                  <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M35.8 28.0924C43.3451 28.0924 49.4616 21.9759 49.4616 14.4308C49.4616 6.88577 43.3451 0.769287 35.8 0.769287C28.255 0.769287 22.1385 6.88577 22.1385 14.4308C22.1385 21.9759 28.255 28.0924 35.8 28.0924Z" stroke="#122223" />
-                    <path d="M33.4808 10.2039L32.9985 10.8031L37.2931 14.2623H0.341553V15.0315H37.28L33.0008 18.4262L33.4785 19.0285L39 14.6492L33.4808 10.2039Z" fill="#122223" />
-                  </svg>
-                </i>
-                Book now
-              </button>
+             
             </div>
 
             <div class="lg:d-none mt-60 md:mt-30" data-anim-child="slide-up delay-6">
@@ -228,7 +222,7 @@
               <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                  <a href="rooms-list-1.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
+                  <a href="superior-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
                         <img src="img/cards/rooms/3/1.jpg" alt="image" class="img-ratio">
@@ -243,16 +237,16 @@
 
                     <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
                       <div class="d-flex justify-between items-center">
-                        <h3 class="roomCard__title text-40 md:text-30 text-white">Luxury Suite</h3>
-                        <div class="roomCard__price text-white">$499 / NIGHT</div>
+                        <h3 class="roomCard__title text-40 md:text-30 text-white">Superior Room</h3>
+                        <div class="roomCard__price text-white">₹3,000 PER NIGHT</div>
                       </div>
 
                       <div class="d-flex items-center x-gap-10 text-white pt-30 md:pt-20">
-                        <div>30M2</div>
+                        <div>180 SQ. FT.</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
-                        <div>2 ADULTS</div>
+                        <div>3 ADULTS</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
@@ -263,7 +257,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="rooms-list-2.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
+                  <a href="premier-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
                         <img src="img/cards/rooms/3/2.png" alt="image" class="img-ratio">
@@ -278,16 +272,16 @@
 
                     <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
                       <div class="d-flex justify-between items-center">
-                        <h3 class="roomCard__title text-40 md:text-30 text-white">Double Room</h3>
-                        <div class="roomCard__price text-white">$499 / NIGHT</div>
+                        <h3 class="roomCard__title text-40 md:text-30 text-white">Premier Room</h3>
+                        <div class="roomCard__price text-white">₹4,000 PER NIGHT</div>
                       </div>
 
-                      <div class="d-flex items-center x-gap-10 text-white pt-30 md:pt-20">
-                        <div>30M2</div>
+                             <div class="d-flex items-center x-gap-10 text-white pt-30 md:pt-20">
+                        <div>220 SQ. FT.</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
-                        <div>2 ADULTS</div>
+                        <div>3 ADULTS</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
@@ -298,7 +292,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="rooms-list-3.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
+                  <a href="business-class-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
                         <img src="img/cards/rooms/3/3.png" alt="image" class="img-ratio">
@@ -313,16 +307,16 @@
 
                     <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
                       <div class="d-flex justify-between items-center">
-                        <h3 class="roomCard__title text-40 md:text-30 text-white">Deluxe Room</h3>
-                        <div class="roomCard__price text-white">$499 / NIGHT</div>
+                        <h3 class="roomCard__title text-40 md:text-30 text-white">Business Class Room</h3>
+                        <div class="roomCard__price text-white">₹5,000 PER NIGHT</div>
                       </div>
 
                       <div class="d-flex items-center x-gap-10 text-white pt-30 md:pt-20">
-                        <div>30M2</div>
+                        <div>300 SQ. FT.</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
-                        <div>2 ADULTS</div>
+                        <div>3 ADULTS</div>
                         <div>
                           <div class="circle bg-white-10"></div>
                         </div>
@@ -482,7 +476,7 @@
                 <div class="iconCard__icon__circle bg-light-1"></div>
                 <i class="icon-bus"></i>
               </div>
-              <h4 class="text-24 text-center mt-20">Airport Transfer</h4>
+              <h4 class="text-24 text-center mt-20">24x7 Travel Desk</h4>
             </div>
           </div>
 
@@ -754,134 +748,7 @@
       </div>
     </section>
 
-    <section class="layout-pt-lg">
-      <div data-anim-wrap class="container">
-        <div class="row y-gap-30 justify-between items-end">
-          <div data-anim-child="slide-up delay-1" class="col-auto">
-            <div class="text-15 uppercase mb-30 sm:mb-10">BLOG</div>
-            <h2 class="text-64 md:text-40">Offers & News</h2>
-          </div>
 
-          <div data-anim-child="slide-up delay-3" class="col-auto">
-            <button class="button -type-1">
-              <i class="-icon">
-                <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M35.8 28.0924C43.3451 28.0924 49.4616 21.9759 49.4616 14.4308C49.4616 6.88577 43.3451 0.769287 35.8 0.769287C28.255 0.769287 22.1385 6.88577 22.1385 14.4308C22.1385 21.9759 28.255 28.0924 35.8 28.0924Z" stroke="#122223" />
-                  <path d="M33.4808 10.2039L32.9985 10.8031L37.2931 14.2623H0.341553V15.0315H37.28L33.0008 18.4262L33.4785 19.0285L39 14.6492L33.4808 10.2039Z" fill="#122223" />
-                </svg>
-              </i>
-              VIEW ALL MORE
-            </button>
-          </div>
-        </div>
-
-        <div class="row y-gap-30 x-gap-85 justify-between pt-100 sm:pt-50">
-
-          <div data-anim-child="img-right cover-white delay-2" class="col-lg-4 col-md-6">
-            <a href="blog-list-1.html" class="baseCard -type-2">
-              <div class="baseCard__image ratio ratio-41:50">
-                <img src="img/cards/2/1.png" alt="image" class="img-ratio">
-              </div>
-
-              <div class="baseCard__content mt-30">
-                <div class="row x-gap-10">
-                  <div class="col-auto">
-                    Spa &amp; Wellness
-                  </div>
-
-                  <div class="col-auto">
-                    06 April 2023
-                  </div>
-                </div>
-
-                <h4 class="text-30 md:text-25 mt-15">Hotel June&#39;s Upcoming Artist in Residence</h4>
-
-                <div class="d-flex mt-20">
-                  <button class="button -type-1">
-                    <i class="-icon">
-                      <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M35.8 28.0924C43.3451 28.0924 49.4616 21.9759 49.4616 14.4308C49.4616 6.88577 43.3451 0.769287 35.8 0.769287C28.255 0.769287 22.1385 6.88577 22.1385 14.4308C22.1385 21.9759 28.255 28.0924 35.8 28.0924Z" stroke="#122223" />
-                        <path d="M33.4808 10.2039L32.9985 10.8031L37.2931 14.2623H0.341553V15.0315H37.28L33.0008 18.4262L33.4785 19.0285L39 14.6492L33.4808 10.2039Z" fill="#122223" />
-                      </svg>
-                    </i>
-                    READ MORE
-                  </button>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <div data-anim-child="img-right cover-white delay-4" class="col-lg-4 col-md-6">
-            <a href="blog-list-1.html" class="baseCard -type-2">
-              <div class="baseCard__image ratio ratio-41:50">
-                <img src="img/cards/2/2.png" alt="image" class="img-ratio">
-              </div>
-
-              <div class="baseCard__content mt-30">
-                <div class="row x-gap-10">
-                  <div class="col-auto">
-                    Event
-                  </div>
-
-                  <div class="col-auto">
-                    06 April 2023
-                  </div>
-                </div>
-
-                <h4 class="text-30 md:text-25 mt-15">Where to travel in 2023: 10 places you need to go in 2023!</h4>
-
-                <div class="d-flex mt-20">
-                  <button class="button -type-1">
-                    <i class="-icon">
-                      <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M35.8 28.0924C43.3451 28.0924 49.4616 21.9759 49.4616 14.4308C49.4616 6.88577 43.3451 0.769287 35.8 0.769287C28.255 0.769287 22.1385 6.88577 22.1385 14.4308C22.1385 21.9759 28.255 28.0924 35.8 28.0924Z" stroke="#122223" />
-                        <path d="M33.4808 10.2039L32.9985 10.8031L37.2931 14.2623H0.341553V15.0315H37.28L33.0008 18.4262L33.4785 19.0285L39 14.6492L33.4808 10.2039Z" fill="#122223" />
-                      </svg>
-                    </i>
-                    READ MORE
-                  </button>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <div data-anim-child="img-right cover-white delay-6" class="col-lg-4 col-md-6">
-            <a href="blog-list-1.html" class="baseCard -type-2">
-              <div class="baseCard__image ratio ratio-41:50">
-                <img src="img/cards/2/3.png" alt="image" class="img-ratio">
-              </div>
-
-              <div class="baseCard__content mt-30">
-                <div class="row x-gap-10">
-                  <div class="col-auto">
-                    Restaurant
-                  </div>
-
-                  <div class="col-auto">
-                    06 April 2023
-                  </div>
-                </div>
-
-                <h4 class="text-30 md:text-25 mt-15">Tips For Picking Vacation Accommodation</h4>
-
-                <div class="d-flex mt-20">
-                  <button class="button -type-1">
-                    <i class="-icon">
-                      <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M35.8 28.0924C43.3451 28.0924 49.4616 21.9759 49.4616 14.4308C49.4616 6.88577 43.3451 0.769287 35.8 0.769287C28.255 0.769287 22.1385 6.88577 22.1385 14.4308C22.1385 21.9759 28.255 28.0924 35.8 28.0924Z" stroke="#122223" />
-                        <path d="M33.4808 10.2039L32.9985 10.8031L37.2931 14.2623H0.341553V15.0315H37.28L33.0008 18.4262L33.4785 19.0285L39 14.6492L33.4808 10.2039Z" fill="#122223" />
-                      </svg>
-                    </i>
-                    READ MORE
-                  </button>
-                </div>
-              </div>
-            </a>
-          </div>
-
-        </div>
-      </div>
-    </section>
 
     <section data-anim-wrap class="layout-pt-lg layout-pb-lg">
       <div class="container">
