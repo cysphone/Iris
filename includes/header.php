@@ -43,7 +43,7 @@
 
     <div class="menuFullScreen__left">
       <div class="menuFullScreen__bg js-menuFullScreen-bg">
-        <img src="img/menu/bg.png" alt="image">
+        <img src="img/hero/1/bg.png" alt="image">
       </div>
 
       <button class="menuFullScreen__close js-menuFullScreen-toggle js-menuFullScreen-close-btn">
@@ -108,7 +108,7 @@
         </div>
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="#">
+          <a href="lastella.php">
             LA STELLA
           </a>
         </div>

@@ -260,11 +260,9 @@
         <div class="row justify-center">
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
-              <div class="pageHero__subtitle text-white">₹3,500 PER NIGHT</div>
-              <h1 class="pageHero__title text-white">Superior
-                Rooms
-              </h1>
-              <p class="pageHero__text text-white">A peaceful, well-appointed space designed for quiet comfort and effortless stays.</p>
+              <div class="pageHero__subtitle text-white">₹4,500 PER NIGHT</div>
+              <h1 class="pageHero__title text-white">Business Class Rooms</h1>
+              <p class="pageHero__text text-white">A spacious, light-filled retreat with a dedicated workspace for seamless business travel.</p>
             </div>
           </div>
         </div>
@@ -275,13 +273,13 @@
       <div class="container">
         <div class="row y-gap-40 justify-between">
           <div class="col-xl-7 col-lg-7">
-            <div class="fw-500 mb-30 md:mb-20">₹3,500 PER NIGHT</div>
+            <div class="fw-500 mb-30 md:mb-20">₹4,500 PER NIGHT</div>
             <h2 class="text-40">About accommodation</h2>
             <div class="d-flex x-gap-50 md:x-gap-20 pt-40 md:pt-30">
 
               <div class="d-flex items-center text-accent-1">
                 <i class="icon-size text-20 mr-10"></i>
-                180 SQ. FT.
+                300 SQ. FT.
               </div>
 
               <div class="d-flex items-center text-accent-1">
@@ -304,11 +302,11 @@
             <div class="line -horizontal bg-border mt-50 mb-50"></div>
 
             <p>
-              Step into a thoughtfully curated space that offers the essence of quiet comfort. The Superior Room is designed for guests who value simplicity, serenity, and functionality in a well-appointed setting. Ideal for solo travelers or short business stays, this room provides a peaceful environment that encourages rest and rejuvenation.
+              Blending function with finesse, the Business Class Room is crafted for discerning guests who seek both productivity and indulgence. A generously sized space featuring large windows, thoughtful lighting, and a dedicated work zone, this room is tailored for extended stays and working professionals.
               <br><br>
-              Every element within the room — from the plush bedding to the ambient lighting — has been chosen with care to create a sense of balance and warmth. Contemporary interiors, neutral tones, and sleek furniture come together to create a harmonious blend of style and convenience.
+              In addition to the signature comforts of Iris Suites, this room includes a modern workstation that ensures you can meet deadlines or host virtual meetings in style and ease. The interiors balance sleek minimalism with cozy details — creating an environment where you can work, rest, and recharge seamlessly.
               <br><br>
-              Whether you're winding down after a busy day or simply enjoying a moment of stillness, the Superior Room promises a refined stay experience with all the essentials, in a setting that is both calm and cocooned from the outside world.
+              Whether you're in town for business or prefer the extra space and functionality, the Business Class Room redefines the way modern travelers live and work during their stay.
 
             </p>
 
@@ -558,80 +556,8 @@
       </div>
     </section>
 
-    <section class="layout-pt-lg layout-pb-lg bg-light-1">
-      <div data-anim-wrap class="container">
-        <div class="row justify-center text-center">
-          <div data-split='lines' data-anim-child="split-lines delay-2" class="col-auto">
-            <div class="text-15 uppercase mb-30 sm:mb-10">OUR SERVICES</div>
-            <h2 class="text-64 md:text-40">Hotel Facilities</h2>
-          </div>
-        </div>
+<?php include 'includes/header.php'; ?>
 
-        <div class="row y-gap-40 justify-between pt-100 sm:pt-50">
-
-          <div data-anim-child="slide-up delay-4" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-wifi"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Wifi &amp; Internet</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-5" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bus"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Airport Transfer</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-6" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-tv"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Smart TV</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-7" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bed"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Breakfast in Bed</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-8" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-laundry"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Laundry Services</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-9" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-housekeeper"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Housekeeper Services</h4>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section>
 
     <section class="layout-pt-lg layout-pb-lg bg-accent-1">
       <div class="container">
@@ -833,7 +759,7 @@
 
               <div class="swiper-slide">
                 <div data-anim-child="slide-up delay-4">
-                  <a href="superior-room.html" class="roomCard -type-2 -hover-button-center">
+                  <a href="premier-room.php" class="roomCard -type-2 -hover-button-center">
                     <div class="roomCard__image -no-rounded ratio ratio-45:54 -hover-button-center__wrap">
                       <img src="img/cards/rooms/2/1.png" alt="image" class="img-ratio">
 
@@ -853,7 +779,7 @@
 
                         <div class="d-flex items-center text-accent-1">
                           <i class="icon-size text-20 mr-10"></i>
-                          180 SQ. FT.
+                          220 SQ. FT.
                         </div>
 
                         <div class="d-flex items-center text-accent-1">
@@ -879,11 +805,11 @@
 
               <div class="swiper-slide">
                 <div data-anim-child="slide-up delay-4">
-                  <a href="business-class-room.html" class="roomCard -type-2 -hover-button-center">
+                  <a href="superior-room.php" class="roomCard -type-2 -hover-button-center">
                     <div class="roomCard__image -no-rounded ratio ratio-45:54 -hover-button-center__wrap">
                       <img src="img/cards/rooms/2/2.png" alt="image" class="img-ratio">
 
-                      <div class="roomCard__price round-0 text-15 fw-500 bg-white text-accent-1">₹5,000 / NIGHT</div>
+                      <div class="roomCard__price round-0 text-15 fw-500 bg-white text-accent-1">₹3,000 / NIGHT</div>
 
                       <div class="-hover-button-center__button flex-center size-130 rounded-full bg-accent-1-50 blur-1 border-white-10">
                         <span class="text-15 fw-500 text-white">BOOK NOW</span>
@@ -892,14 +818,14 @@
 
                     <div class="roomCard__content mt-30">
                       <div class="d-flex justify-between items-end">
-                        <h3 class="roomCard__title lh-065 text-40 md:text-24">Business Class Rooms</h3>
+                        <h3 class="roomCard__title lh-065 text-40 md:text-24">Superior Rooms</h3>
                       </div>
 
                       <div class="d-flex x-gap-20 pt-30">
 
                         <div class="d-flex items-center text-accent-1">
                           <i class="icon-size text-20 mr-10"></i>
-                          300 SQ. FT.
+                          180 SQ. FT.
                         </div>
 
                         <div class="d-flex items-center text-accent-1">
