@@ -125,7 +125,7 @@
     <div class="menuFullScreen__right js-menuFullScreen-right">
       <div class="text-center men_head">
         <div class="mb-100 header__logo">
-          <img src="img/general/logo.png" alt="image">
+          <img src="img/general/iris suites-1.png" alt="image">
         </div>
 
         <div class="text-sec lh-11 fw-500 text-40">

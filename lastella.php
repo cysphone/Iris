@@ -22,7 +22,7 @@
                 <div class="col-lg-auto col-6">
                   <div class="text-center text-white">
                     <i class="d-flex justify-center text-40 icon-phone mb-20"></i>
-                    <div class="fw-500">+41-96567-7854</div>
+                    <div class="fw-500">+ 91 9810156979</div>
                   </div>
                 </div>
 

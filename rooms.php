@@ -3,7 +3,7 @@
 
     <section data-anim-wrap class="pageHero -type-1">
       <div class="pageHero__bg" data-anim-child="img-right cover-white delay-1">
-        <img src="img/pageHero/1.png" alt="image">
+        <img src="img/rooms/Premier/11.jpg" alt="image">
       </div>
 
       <div class="container">
@@ -208,7 +208,7 @@
             <div class="">
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
-                  <img src="img/cards/rooms/5/1.png" alt="image" class="img-ratio">
+                  <img src="img/rooms/Superior/1.png" alt="image" class="img-ratio">
                   <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹3,000 / NIGHT</div>
                 </div>
               </div>
@@ -253,7 +253,7 @@
                   Bathed in natural light with warm, modern interiors, the Premier Room offers a tranquil escape with calming views — designed for guests who enjoy a sense of openness, style, and elevated everyday living.
                 </p>
 
-                <a href="premier-room.html">
+                <a href="premier-room.php">
   <button class="button -md -type-2 -accent-1 bg-accent-2 mt-50 md:mt-30">ROOM DETAIL</button>
 </a>
               </div>
@@ -262,7 +262,7 @@
             <div class="">
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
-                  <img src="img/cards/rooms/5/2.png" alt="image" class="img-ratio">
+                  <img src="img/rooms/Premier/17.png" alt="image" class="img-ratio">
                   <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹4,000 / NIGHT</div>
                 </div>
               </div>
@@ -316,7 +316,7 @@
             <div class="">
               <div data-anim-child="img-right cover-white delay-1">
                 <div class="roomCard__image -no-rounded ratio ratio-10:9">
-                  <img src="img/cards/rooms/5/3.png" alt="image" class="img-ratio">
+                  <img src="img/rooms/BUSINESS CLASS/6.jpg" alt="image" class="img-ratio">
                   <div class="roomCard__price text-15 fw-500 bg-white text-accent-1 rounded-0">₹5,000 / NIGHT</div>
                 </div>
               </div>

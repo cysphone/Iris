@@ -257,10 +257,10 @@ From personalized service to elevated interiors, everything here is designed to 
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="premier-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
+                  <a href="premier-room.php" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                        <img src="img/cards/rooms/3/2.png" alt="image" class="img-ratio">
+                        <img src="img/rooms/Premier/2.jpg" alt="image" class="img-ratio">
 
                         <div class="-image-border__item"></div>
 
@@ -292,10 +292,10 @@ From personalized service to elevated interiors, everything here is designed to 
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="business-class-room.html" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
+                  <a href="business-class-room.php" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                        <img src="img/cards/rooms/3/3.png" alt="image" class="img-ratio">
+                        <img src="img/rooms/BUSINESS CLASS/6.jpg" alt="image" class="img-ratio">
 
                         <div class="-image-border__item"></div>
 
@@ -467,12 +467,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-2" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/1.jpg" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/1.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Bike Rides</h4>
+                  <h4 class="text-30 md:text-25 text-white">Lotus Temples</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -482,12 +482,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-4" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/2.png" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/2.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Golf</h4>
+                  <h4 class="text-30 md:text-25 text-white">Kalkaji Temple</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -497,12 +497,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-6" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/3.png" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/3.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Snowsports</h4>
+                  <h4 class="text-30 md:text-25 text-white">NSIC Exhibition Ground</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -512,12 +512,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-8" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/4.png" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/4.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Climbing</h4>
+                  <h4 class="text-30 md:text-25 text-white">Nehru Place Market</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -526,13 +526,13 @@ From personalized service to elevated interiors, everything here is designed to 
             <div class="swiper-slide">
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
-                  <div data-anim-child="img-right cover-white delay-10" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/5.png" alt="image" class="img-ratio">
+                  <div data-anim-child="img/rooms/bottom images/5.png" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/5.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Bike Rides</h4>
+                  <h4 class="text-30 md:text-25 text-white">Iskcon Temple</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -542,12 +542,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-12" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/6.png" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/6.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Golf</h4>
+                  <h4 class="text-30 md:text-25 text-white">Tughlaqabad Fort</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
@@ -557,12 +557,12 @@ From personalized service to elevated interiors, everything here is designed to 
               <a href="#" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-14" class="baseCard__image ratio ratio-33:45">
-                    <img src="img/cards/1/7.png" alt="image" class="img-ratio">
+                    <img src="img/roomsSingle/7.png" alt="image" class="img-ratio">
                   </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <h4 class="text-30 md:text-25 text-white">Snowsports</h4>
+                  <h4 class="text-30 md:text-25 text-white">Kiran Nadar Museum of Art</h4>
                   <div class="text-white mt-10">$280/Person</div>
                 </div>
               </a>
