@@ -473,7 +473,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Lotus Temples</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Architectural peace and silence</div>
                 </div>
               </a>
             </div>
@@ -488,7 +488,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Kalkaji Temple</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Spiritual energy and tradition</div>
                 </div>
               </a>
             </div>
@@ -503,7 +503,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">NSIC Exhibition Ground</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Events, expos, and culture</div>
                 </div>
               </a>
             </div>
@@ -518,7 +518,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Nehru Place Market</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Tech, street food, and buzz</div>
                 </div>
               </a>
             </div>
@@ -533,7 +533,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Iskcon Temple</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Chants, culture, and soul food</div>
                 </div>
               </a>
             </div>
@@ -548,7 +548,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Tughlaqabad Fort</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Ruins, history, and views</div>
                 </div>
               </a>
             </div>
@@ -563,7 +563,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
                   <h4 class="text-30 md:text-25 text-white">Kiran Nadar Museum of Art</h4>
-                  <div class="text-white mt-10">$280/Person</div>
+                  <div class="text-white mt-10">Art, calm, and creativity</div>
                 </div>
               </a>
             </div>
