@@ -423,23 +423,23 @@ From personalized service to elevated interiors, everything here is designed to 
 
             <div class="col-xl-4 col-lg-5 lg:order-1">
               <div class="hoverTitleInteraction__links">
-                <a href="activities.html" class="hoverTitle text-sec text-52 md:text-40 fw-500">
-                  The Restaurant
+                <a href="lastella.php" class="hoverTitle text-sec text-52 md:text-40 fw-500">
+                  La Stell Restaurant
                   <i class="icon-arrow-right text-40 ml-50"></i>
                 </a>
 
-                <a href="activities.html" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
-                  Spa Center
+                <a href="rooms.php" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
+                  Our Suites
                   <i class="icon-arrow-right text-40 ml-50"></i>
                 </a>
 
-                <a href="activities.html" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
-                  Fitness Center
+                <a href="faq.php" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
+                  FAQ
                   <i class="icon-arrow-right text-40 ml-50"></i>
                 </a>
 
-                <a href="activities.html" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
-                  Swimming Pool
+                <a href="terms.php" class="hoverTitle text-sec text-52 md:text-40 fw-500 pt-60 lg:pt-0">
+                  Terms & Conditions
                   <i class="icon-arrow-right text-40 ml-50"></i>
                 </a>
               </div>
