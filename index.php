@@ -1,9 +1,10 @@
 <?php include 'includes/header.php'; ?>
 
     <section data-anim-wrap class="hero -type-1 z-1">
-<video autoplay muted loop class="banner-video" style="padding-top: 250px;">
-  <source src="img/rooms/Superior/bannerv1.mp4" type="video/mp4">
-</video>
+  <div data-anim-child="img-right cover-white" class="hero__bg">
+        <img src="img/hero/1/bg.png" alt="image">
+      </div>
+
 
       <div data-anim-wrap class="container">
         <div class="row justify-center text-center">
