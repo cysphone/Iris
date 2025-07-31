@@ -7,3 +7,10 @@
 .wid_img{
     width: 100px;
 }
+.banner-video {
+  width: 100%;
+  height: auto;
+  padding-top: 100px; /* or use margin-top */
+  object-fit: cover;
+  display: block;
+}

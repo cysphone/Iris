@@ -118,6 +118,13 @@
   --font-primary: "Jost", sans-serif;
   --font-secondary: "Cormorant Garamond", sans-serif;
 }
+.banner-video {
+  width: 100%;
+  height: auto;
+  padding-top: 100px; /* or use margin-top */
+  object-fit: cover;
+  display: block;
+}
 
 :root {
   --text-9: 9px;
