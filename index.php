@@ -1,9 +1,37 @@
 <?php include 'includes/header.php'; ?>
 
     <section data-anim-wrap class="hero -type-1 z-1">
-  <div data-anim-child="img-right cover-white" class="hero__bg">
-        <img src="img/hero/1/bg.png" alt="image">
+      <div class="hero__bg">
+        <div class="swiper heroSwiperss">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/hero/1/bg.png" alt="Slide 1">
+            </div>
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/hero/2/1.png" alt="Slide 2">
+            </div>
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/hero/3/1.png" alt="Slide 3">
+            </div>
+
+          </div>
+
+          <!-- Pagination -->
+          <!-- <div class="pag">
+          <div class="swiper-pagination"></div>
+          </div> -->
+
+          <!-- Navigation Arrows -->
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
       </div>
+
+
+
 
 
       <div data-anim-wrap class="container">

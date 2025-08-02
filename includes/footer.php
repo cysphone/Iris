@@ -147,8 +147,8 @@
   <!-- JavaScript -->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAz77U5XQuEME6TpftaMdX0bBelQxXRlM"></script>
   <script src="../../../unpkg.com/%40googlemaps/markerclusterer%402.6.2/dist/index.min.js"></script>
-
   <script src="js/vendors.js"></script>
+  <script src="js/style.js"></script>
   <script src="js/main.js"></script>
 </body>
 

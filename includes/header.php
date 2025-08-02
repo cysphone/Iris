@@ -30,8 +30,7 @@
         <div class="text-15 uppercase ml-30 sm:d-none">Menu</div>
       </div>
 
-      <div class="header__logo">
-        <img src="img/general/logo.png" alt="logo">
+      <div class="header__logo"><a href="index.php"><img src="img/general/logo.png" alt="logo" ></a>
       </div>
 
       <button class="button text-white mr-30 lg:mr-0">
@@ -222,7 +221,7 @@
 
         <div class="header__center">
           <div class="header__logo">
-            <img src="img/general/logo.png" alt="logo">
+            <a href="index.php"><img src="img/general/logo.png" alt="logo" ></a>
           </div>
         </div>
 
