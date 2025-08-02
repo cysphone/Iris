@@ -155,7 +155,7 @@
               <a href="tel:+919810154702">+91 9810156979</a>
             </div>
             <div>
-              <a href="mailto:stay@irissuites.com">reservations@irissuites.com</a>
+              <a href="mailto:reservations@irissuites.com">reservations@irissuites.com</a>
             </div>
           </div>
         </div>
@@ -189,7 +189,7 @@
         </span>
       </a>
 
-      <a href="mailto:stay@irissuites.com" class="d-flex items-center mt-20">
+      <a href="mailto:reservations@irissuites.com" class="d-flex items-center mt-20">
         <i class="icon-mail mr-10"></i>
         <span>reservations@irissuites.com</span>
       </a>
