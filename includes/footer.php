@@ -26,7 +26,7 @@
                   </a>
                 </div>
                 <div class="mt-10">
-                  <a class="d-block text-15 text-white-60" href="tel:+919810154702">
+                  <a class="d-block text-15 text-white-60" href="tel:+919810156979">
                     + 91 9810156979
                   </a>
                 </div>
