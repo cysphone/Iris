@@ -152,7 +152,7 @@
           </div>
           <div class="mt-10">
             <div>
-              <a href="tel:+919810154702">+91 9810156979</a>
+              <a href="tel:+919810156979">+91 9810156979</a>
             </div>
             <div>
               <a href="mailto:reservations@irissuites.com">reservations@irissuites.com</a>
