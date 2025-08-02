@@ -16,17 +16,17 @@
 
               <div class="d-flex flex-column mt-60 md:mt-20">
                 <div class="">
-                  <a class="d-block text-15 text-white-60 lh-17" href="#">
+                  <a class="d-block text-15 text-white-60 lh-17" href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8">
                     Block F-19, Near Deshbandhu College, Kalkaji, New Delhi - 110019
                   </a>
                 </div>
                 <div class="mt-25">
-                  <a class="d-block text-15 text-white-60" href="#">
+                  <a class="d-block text-15 text-white-60" href="mailto:reservations@irissuites.com">
                     reservations@irissuites.com
                   </a>
                 </div>
                 <div class="mt-10">
-                  <a class="d-block text-15 text-white-60" href="#">
+                  <a class="d-block text-15 text-white-60" href="tel:+919810154702">
                     + 91 9810156979
                   </a>
                 </div>
@@ -48,7 +48,7 @@
                       Our Rooms
                     </a>
 
-                    <a class="d-block" href="#">
+                    <a class="d-block" href="lastella.php">
                       La Stella Restaurant
                     </a>
 
@@ -66,7 +66,7 @@
                       Terms &amp; Conditions
                     </a>
 
-                    <a class="d-block" href="https://www.google.com/maps/dir//F19,+SF,+Block+F,+Kalkaji,+New+Delhi,+Delhi+110019/@28.5411536,77.1722902,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce13167daf9d1:0x9576af8884127fe8!2m2!1d77.2546916!2d28.5411785?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D">
+                    <a class="d-block" href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8">
                       Get Directions
                     </a>
                     <a class="d-block" href="faq.php">
@@ -102,7 +102,9 @@
             <div class="col-md-auto">
               <div class="footer__bottom_center men_head">
                 <div class="d-flex justify-center wid_img">
+                  <a href="index.php">
                   <img src="img/general/logo.png" alt="logo">
+</a>
                 </div>
               </div>
             </div>
@@ -111,28 +113,17 @@
               <div class="row x-gap-25 y-gap-10 items-center justify-center">
 
                 <div class="col-auto">
-                  <a href="#" class="d-block text-white-60">
+                  <a href="https://www.facebook.com/share/1DrbL194Nt/?mibextid=qi2Omg" class="d-block text-white-60">
                     <i class="icon-facebook text-11"></i>
                   </a>
                 </div>
 
                 <div class="col-auto">
-                  <a href="#" class="d-block text-white-60">
-                    <i class="icon-twitter text-11"></i>
-                  </a>
-                </div>
-
-                <div class="col-auto">
-                  <a href="#" class="d-block text-white-60">
+                  <a href="https://www.instagram.com/irissuiteskalkaji?igsh=dXducnBsb3A4cHh3" class="d-block text-white-60">
                     <i class="icon-instagram text-11"></i>
                   </a>
                 </div>
 
-                <div class="col-auto">
-                  <a href="#" class="d-block text-white-60">
-                    <i class="icon-linkedin text-11"></i>
-                  </a>
-                </div>
 
               </div>
             </div>

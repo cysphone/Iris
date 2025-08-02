@@ -30,7 +30,10 @@
         <div class="text-15 uppercase ml-30 sm:d-none">Menu</div>
       </div>
 
-      <div class="header__logo"><a href="index.php"><img src="img/general/logo.png" alt="logo" ></a>
+      <div class="header__logo">
+        <a href="index.php">
+          <img src="img/general/logo.png" alt="logo" >
+        </a>
       </div>
 
       <button class="button text-white mr-30 lg:mr-0">
@@ -136,9 +139,11 @@
             Location
           </div>
           <div class="mt-10">
-            Block F-19, Near Deshbandhu College,<br>
-            Kalkaji, New Delhi - 110019
-          </div>
+  <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="text-black" style="text-decoration: none;">
+    Block F-19, Near Deshbandhu College,<br>
+    Kalkaji, New Delhi - 110019
+  </a>
+</div>
         </div>
 
         <div class="mt-40">
@@ -147,10 +152,10 @@
           </div>
           <div class="mt-10">
             <div>
-              <a href="#">+91 9810156979</a>
+              <a href="tel:+919810154702">+91 9810156979</a>
             </div>
             <div>
-              <a href="#">reservations@irissuites.com</a>
+              <a href="mailto:stay@irissuites.com">reservations@irissuites.com</a>
             </div>
           </div>
         </div>
@@ -160,7 +165,7 @@
             Connect With Us
           </div>
           <div class="mt-10">
-            <a href="#">+91 9810154702</a>
+            <a href="tel:+919810154702">+91 9810154702</a>
           </div>
         </div>
       </div>
@@ -171,12 +176,12 @@
         BOOK YOUR STAY
       </button>
 
-      <a href="#" class="d-flex items-center mt-40">
+      <a href="tel:+919810154702" class="d-flex items-center mt-40">
         <i class="icon-phone mr-10"></i>
         <span>+91 9810154702</span>
       </a>
 
-      <a href="#" class="d-flex mt-20">
+      <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="d-flex mt-20">
         <i class="icon-map mr-10"></i>
         <span>
           Block F-19, Near Deshbandhu College,<br>
@@ -184,7 +189,7 @@
         </span>
       </a>
 
-      <a href="#" class="d-flex items-center mt-20">
+      <a href="mailto:stay@irissuites.com" class="d-flex items-center mt-20">
         <i class="icon-mail mr-10"></i>
         <span>reservations@irissuites.com</span>
       </a>

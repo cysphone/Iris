@@ -43,8 +43,10 @@
             <div class="text-15 uppercase mb-20">Get In touch</div>
             <h2 class="text-64 md:text-40 capitalize">Leave us your info</h2>
             <p class="lh-17 mt-30">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor tellus vel mauris scelerisque accumsan.
-              Maecenas quis nunc sed sapien dignissim pulvinar. Se d at gravida.
+             We’d love to hear from you. Whether it’s a question about your stay, a booking inquiry, or special requests, our team is here to help — warm hospitality is just a message away.
+             Reach out anytime via call, email, or WhatsApp, and we’ll make sure your experience with Iris Suites is seamless, relaxing, and memorable.
+
+
             </p>
 
             <div class="contactForm row y-gap-30 pt-60">
@@ -105,12 +107,12 @@
                 Kalkaji, New Delhi - 110019
               </div>
               <br>
-              <div><a href="#">reservations@irissuites.com</a></div>
-              <div><a href="#">+ 91 9810156979</a></div>
+              <div><a href="mailto:reservations@irissuites.com">reservations@irissuites.com</a></div>
+              <div><a href="tel:+919810154702">+ 91 9810156979</a></div>
             </div>
 
             <button class="button -md -type-2 bg-accent-2 -light-1 mt-40">
-              <a class="d-block" href="https://www.google.com/maps/dir//F19,+SF,+Block+F,+Kalkaji,+New+Delhi,+Delhi+110019/@28.5411536,77.1722902,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce13167daf9d1:0x9576af8884127fe8!2m2!1d77.2546916!2d28.5411785?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D">
+              <a class="d-block" href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8">
                       Get Directions
                     </a>
             </button>

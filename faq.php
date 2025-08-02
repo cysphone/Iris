@@ -3,7 +3,7 @@
 
     <section data-anim-wrap class="pageHero -type-1 -items-center">
       <div data-anim-child="img-right cover-white delay-1" class="pageHero__bg">
-        <img src="img/pageHero/4.png" alt="image">
+        <img src="img/hero/1/4.png" alt="image">
       </div>
 
       <div class="container">
@@ -11,7 +11,7 @@
           <div class="col-auto">
             <div data-split='lines' data-anim-child="split-lines delay-3" class="pageHero__content text-center">
               <div class="pageHero__subtitle text-white mb-40">FAQ</div>
-              <h1 class="pageHero__title lh-11 capitalize text-white">Frequently asked quesctions</h1>
+              <h1 class="pageHero__title lh-11 capitalize text-white">Frequently asked questions</h1>
             </div>
           </div>
         </div>
@@ -39,10 +39,9 @@
                   <div class="accordion__content">
                     <div class="px-30 py-30">
                       <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
+                        All charges are clearly displayed at the time of booking—there are no hidden fees. Optional add-ons or extra services may carry separate charges upon request.
                         <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
+                        We ensure full transparency in pricing. Taxes and service charges, if any, are included and highlighted during checkout.</p>
                     </div>
                   </div>
                 </div>
@@ -62,9 +61,8 @@
                   <div class="accordion__content">
                     <div class="px-30 py-30">
                       <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
+Reservations may be modified based on availability and our change policy. Guests must contact us directly as early as possible to request changes.                        <br><br>
+Modifications may be subject to revised rates or terms, depending on the season or room category selected.
                       </p>
                     </div>
                   </div>
@@ -85,9 +83,9 @@
                   <div class="accordion__content">
                     <div class="px-30 py-30">
                       <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
+In the rare event of a host-initiated cancellation, we will inform you promptly and offer a full refund. We will also help relocate you to a similar property where possible.
                         <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
+Our team remains available to ensure your travel plans aren’t disrupted and your comfort is prioritized.
                       </p>
                     </div>
                   </div>
@@ -108,9 +106,9 @@
                   <div class="accordion__content">
                     <div class="px-30 py-30">
                       <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
+Cancellations can be requested by calling us directly or via email. Ensure you provide your booking ID and registered contact number for faster assistance.                        <br><br>
+Please note, as per our policy, cancellations are not eligible for refunds once confirmed.
+
                       </p>
                     </div>
                   </div>
@@ -131,135 +129,14 @@
                   <div class="accordion__content">
                     <div class="px-30 py-30">
                       <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
+Unfortunately, all bookings at Iris Suites are non-refundable. Once confirmed, we do not process refunds for cancellations, early checkouts, or no-shows.                        <br><br>
+We recommend reviewing your travel plans thoroughly before confirming your reservation with us.                      </p>
                     </div>
                   </div>
                 </div>
               </div>
 
             </div>
-
-
-            <h2 class="text-40 layout-pt-lg mb-50">Reservation</h2>
-            <div class="accordion -type-1 row y-gap-10 js-accordion">
-
-              <div class="col-12">
-                <div class="accordion__item">
-                  <div class="accordion__button d-flex items-center justify-between px-30 py-20 bg-light-1">
-                    <div class="text-sec text-24 fw-500 lh-1">Do I have to pay extra fees?</div>
-
-                    <div class="accordion__icon">
-                      <i class="icon-plus text-15"></i>
-                      <i class="icon-minus text-15"></i>
-                    </div>
-                  </div>
-
-                  <div class="accordion__content">
-                    <div class="px-30 py-30">
-                      <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-12">
-                <div class="accordion__item">
-                  <div class="accordion__button d-flex items-center justify-between px-30 py-20 bg-light-1">
-                    <div class="text-sec text-24 fw-500 lh-1">Can I change my reservation?</div>
-
-                    <div class="accordion__icon">
-                      <i class="icon-plus text-15"></i>
-                      <i class="icon-minus text-15"></i>
-                    </div>
-                  </div>
-
-                  <div class="accordion__content">
-                    <div class="px-30 py-30">
-                      <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-12">
-                <div class="accordion__item">
-                  <div class="accordion__button d-flex items-center justify-between px-30 py-20 bg-light-1">
-                    <div class="text-sec text-24 fw-500 lh-1">What happens if a host cancels?</div>
-
-                    <div class="accordion__icon">
-                      <i class="icon-plus text-15"></i>
-                      <i class="icon-minus text-15"></i>
-                    </div>
-                  </div>
-
-                  <div class="accordion__content">
-                    <div class="px-30 py-30">
-                      <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-12">
-                <div class="accordion__item">
-                  <div class="accordion__button d-flex items-center justify-between px-30 py-20 bg-light-1">
-                    <div class="text-sec text-24 fw-500 lh-1">How do I cancel my reservation?</div>
-
-                    <div class="accordion__icon">
-                      <i class="icon-plus text-15"></i>
-                      <i class="icon-minus text-15"></i>
-                    </div>
-                  </div>
-
-                  <div class="accordion__content">
-                    <div class="px-30 py-30">
-                      <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-12">
-                <div class="accordion__item">
-                  <div class="accordion__button d-flex items-center justify-between px-30 py-20 bg-light-1">
-                    <div class="text-sec text-24 fw-500 lh-1">If I cancel, will I get a full refund?</div>
-
-                    <div class="accordion__icon">
-                      <i class="icon-plus text-15"></i>
-                      <i class="icon-minus text-15"></i>
-                    </div>
-                  </div>
-
-                  <div class="accordion__content">
-                    <div class="px-30 py-30">
-                      <p>
-                        Sit arcu odio aenean vitae eu egestas. Gravida commodo non sem diam faucibus justo dolor. Consectetur nunc scelerisque ut enim tristique sed. At leo urna eu quam cursus dolor. In bibendum sit scelerisque mattis cum.
-                        <br><br>
-                        Adipiscing et vel tempor elementum dignissim urna. Eu sem sed enim habitant libero ultricies sagittis. Malesuada viverra netus diam vehicula nulla. Neque mattis lacus sed tristique. Luctus ipsum lobortis sed odio ut ultricies adipiscing nisi nulla. Turpis aliquam feugiat tortor rutrum diam molestie vel pharetra.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
 
             </div>
           </div>
