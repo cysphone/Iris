@@ -10,11 +10,23 @@
             </div>
 
             <div class="swiper-slide">
-              <img style="height:100vh; width:100%;" src="img/hero/2/1.png" alt="Slide 2">
+              <img style="height:100vh; width:100%;" src="img/general/1/2.png" alt="Slide 2">
             </div>
 
             <div class="swiper-slide">
-              <img style="height:100vh; width:100%;" src="img/hero/3/1.png" alt="Slide 3">
+              <img style="height:100vh; width:100%;" src="img/general/1/3.png" alt="Slide 3">
+            </div>
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/general/1/4.png" alt="Slide 3">
+            </div>
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/general/1/5.png" alt="Slide 3">
+            </div>
+
+            <div class="swiper-slide">
+              <img style="height:100vh; width:100%;" src="img/general/1/6.png" alt="Slide 3">
             </div>
 
           </div>
