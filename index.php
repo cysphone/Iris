@@ -505,7 +505,7 @@ From personalized service to elevated interiors, everything here is designed to 
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/mazKmwEqyJnvEZFL9" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-2" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/1.png" alt="image" class="img-ratio">
@@ -520,7 +520,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/mGzmHf7sy9yeZ2gV9" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-4" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/2.png" alt="image" class="img-ratio">
@@ -535,7 +535,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/mpuHCmdG2khfjRPS6" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-6" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/3.png" alt="image" class="img-ratio">
@@ -550,7 +550,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/vHGskmuqjDy7dbHQ7" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-8" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/4.png" alt="image" class="img-ratio">
@@ -565,7 +565,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/HiES293Mt4tC1qdJA" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img/rooms/bottom images/5.png" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/5.png" alt="image" class="img-ratio">
@@ -580,7 +580,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/PU11zvkmxMisSrho9" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-12" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/6.png" alt="image" class="img-ratio">
@@ -595,7 +595,7 @@ From personalized service to elevated interiors, everything here is designed to 
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -hover-image-scale">
+              <a href="https://maps.app.goo.gl/tTPhx4Z7cZwcA86X6" class="baseCard -type-1 -hover-image-scale">
                 <div class="-hover-image-scale__image">
                   <div data-anim-child="img-right cover-white delay-14" class="baseCard__image ratio ratio-33:45">
                     <img src="img/roomsSingle/7.png" alt="image" class="img-ratio">
