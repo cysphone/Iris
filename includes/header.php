@@ -37,7 +37,7 @@
       </div>
 
       <button class="button text-white mr-30 lg:mr-0">
-        KALKAJI, NEHRU PLACE <i class="icon-chevron-down ml-15"></i>
+        KALKAJI <i class="icon-chevron-down ml-15"></i>
       </button>
     </div>
 
@@ -232,7 +232,7 @@
 
         <div class="header__right d-flex items-center h-full">
           <button class="button text-white mr-30 xl:mr-0">
-            Kalkaji, Nehru Place <i class="icon-chevron-down ml-15"></i>
+            Kalkaji <i class="icon-chevron-down ml-15"></i>
           </button>
 
           <div class="line -vertical bg-white-10 h-full ml-90 mr-90 xl:d-none"></div>
