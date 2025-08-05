@@ -146,7 +146,7 @@
                   </div>
                 </div>
 
-                <h4 class="text-30 md:text-25 mt-15">5 Tips for Planning the Ultimate Luxury Vacation</h4>
+                <h4 class="text-30 md:text-25 mt-15">5 Tips for Planning the Ultimate Indulgence Vacation</h4>
 
                 <p class="mt-15">At is a long established fact that a reader will be distracted by the readable...</p>
 
@@ -254,7 +254,7 @@
                   </div>
                 </div>
 
-                <h4 class="text-30 md:text-25 mt-15">The Best Luxury Hotels Around the World: A Guide</h4>
+                <h4 class="text-30 md:text-25 mt-15">The Best Indulgence Hotels Around the World: A Guide</h4>
 
                 <p class="mt-15">At is a long established fact that a reader will be distracted by the readable...</p>
 
@@ -364,7 +364,7 @@
         <div class="row justify-center text-center">
           <div class="col-auto">
             <h2 class="text-92 lg:text-64 md:text-30 text-white">
-              Luxury Awaits.<br class="lg:d-none"> Book Your Stay Today!
+              Indulgence Awaits.<br class="lg:d-none"> Book a stay Today!
             </h2>
 
             <button class="button -md -type-2 bg-accent-2 -accent-1 mx-auto mt-40">BOOK NOW</button>

@@ -37,7 +37,7 @@
       </div>
 
       <button class="button text-white mr-30 lg:mr-0">
-        EN <i class="icon-chevron-down ml-15"></i>
+        KALKAJI, NEHRU PLACE <i class="icon-chevron-down ml-15"></i>
       </button>
     </div>
 
@@ -173,7 +173,7 @@
 
     <div class="menuFullScreen__bottomMobile js-menuFullScreen-buttomMobile">
       <button class="button rounded-200 w-1/1 py-20 -light-1 bg-accent-2">
-        BOOK YOUR STAY
+        Book a stay
       </button>
 
       <a href="tel:+919810154702" class="d-flex items-center mt-40">
@@ -220,7 +220,7 @@
 
           <div class="d-flex items-center ml-90 xl:d-none">
             <i class="icon-phone text-20 text-white mr-30"></i>
-            <div class="text-15 uppercase text-white">+ 91 9810156979</div>
+            <a href="tel:+919810154702" class="text-white">+91 9810154702</a>
           </div>
         </div>
 
@@ -232,12 +232,12 @@
 
         <div class="header__right d-flex items-center h-full">
           <button class="button text-white mr-30 xl:mr-0">
-            EN <i class="icon-chevron-down ml-15"></i>
+            Kalkaji, Nehru Place <i class="icon-chevron-down ml-15"></i>
           </button>
 
           <div class="line -vertical bg-white-10 h-full ml-90 mr-90 xl:d-none"></div>
 
-          <a href="rooms.php" class="button text-white mr-30 xl:d-none">BOOK YOUR STAY</a>
+          <a href="rooms.php" class="button text-white mr-30 xl:d-none">Book a stay</a>
 
         </div>
       </div>

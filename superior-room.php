@@ -8,7 +8,7 @@
         <div class="row justify-center">
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
-              <div class="pageHero__subtitle text-white">₹3,500 PER NIGHT</div>
+  
               <h1 class="pageHero__title text-white">Superior
                 Rooms
               </h1>
@@ -87,6 +87,20 @@
               </div>
             </div>
 
+            <div class="line -horizontal bg-border mt-50 mb-50"></div>
+            <h2 class="text-40">City Access</h2>
+            <div class="row x-gap-50 y-gap-20 pt-40">
+              <div class="col-sm-6">
+                <ul class="ulList -type-1">
+                <li>✈️ Indira Gandhi International Airport – approx. 11 km away for smooth travel</li>
+  <li>🚇 Hauz Khas Metro Station – just 1.7 km for fast metro access</li>
+  <li>🏛️ Qutub Minar – only 4.4 km to the historic monument</li>
+  <li>💼 Nehru Place – 5 km to one of Delhi’s busiest business hubs</li>
+  <li>🍽️ In-House Restaurant – satisfying meals just steps from your room</li>
+                </ul>
+              </div>
+            </div>
+
 
             <div class="line -horizontal bg-border mt-50 mb-50"></div>
             <h2 class="text-40">Room Rules</h2>
@@ -98,6 +112,7 @@
               <li>Pets are not allowed</li>
             </ul>
           </div>
+          
 
           <div class="col-xl-4 col-lg-5">
             <div class="sidebar -rooms-single px-40 py-40 md:px-30 md:py-30 border-1 shadow-1">
@@ -258,7 +273,7 @@
 
 
                 <button type="submit" class="button -md bg-accent-2 -dark-1 w-1/1 mt-40">
-                  BOOK YOUR STAY NOW
+                  Book a stay NOW
                 </button>
               </form>
             </div>

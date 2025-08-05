@@ -11,7 +11,7 @@
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
               <h1 class="pageHero__title text-white">Rooms & Suites</h1>
-              <p class="pageHero__text text-white">Discover thoughtfully designed rooms that blend modern comfort with quiet luxury for every kind of traveler.</p>
+              <p class="pageHero__text text-white">Discover thoughtfully designed rooms that blend modern comfort with quiet Indulgence for every kind of traveler.</p>
             </div>
           </div>
         </div>
@@ -151,8 +151,7 @@
               OUR ACCOMMODATIONS
             </div>
             <h2 class="text-64 md:text-40 lh-11">
-              Discover Our Rooms &
-              Suites and Villas
+              Discover Our Rooms
             </h2>
             <p class="mt-40">
               Come in, take your shoes off and let yourself sink<br class="lg:d-none">
@@ -275,7 +274,7 @@
             <div class="">
               <div data-anim-child="slide-up delay-3" class="roomCard__content">
                 <div class="d-flex justify-between items-end">
-                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Business Class Rooms</h3>
+                  <h3 class="roomCard__title lh-065 text-64 md:text-40">Business Class Room</h3>
                 </div>
 
                 <div class="d-flex x-gap-20 pt-40 md:pt-30">

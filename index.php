@@ -6,7 +6,7 @@
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <img style="height:100vh; width:100%;" src="img/hero/1/bg.png" alt="Slide 1">
+              <img style="height:100vh; width:100%;" src="img/hero/1/1.png" alt="Slide 1">
             </div>
 
             <div class="swiper-slide">
@@ -51,7 +51,7 @@
           <div class="col-xl-8 col-lg-10">
             <div data-split='lines' data-anim="split-lines delay-2" class="hero__content">
               <div class="hero__subtitle text-white">
-                REDEFINED LUXURY
+                Where business meets leisure in the heart of New Delhi
               </div>
 
               <h1 class="hero__title text-white">
@@ -62,11 +62,7 @@
         </div>
       </div>
 
-      <div class="hero__arrow">
-        <a href="#secondSection" class="size-70 flex-center rounded-full border-white-10 blur-1">
-          <i class="icon-arrow-down text-24 text-white"></i>
-        </a>
-      </div>
+
 
       <div data-anim-child="slide-up delay-7" class="hero__filter">
         <div class="searchForm -type-1 -blur-1 rounded-200 -text-white">
@@ -198,7 +194,7 @@
       <div class="container">
         <div class="row justify-center text-center">
           <div class="col-auto">
-            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">IRIS SUITES – BOUTIQUE LUXURY STAY</div>
+            <div data-anim-child="slide-up delay-1" class="text-15 uppercase mb-30 sm:mb-10">IRIS SUITES – BOUTIQUE Indulgence STAY</div>
             <h2 data-anim-child="slide-up delay-2" class="text-64 md:text-40">Experience Refined Comfort</h2>
           </div>
         </div>
@@ -278,7 +274,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                     <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
                       <div class="d-flex justify-between items-center">
-                        <h3 class="roomCard__title text-40 md:text-30 text-white">Superior Room</h3>
+                        <h3 class="roomCard__title text-40 md:text-30 text-white">Superior Rooms</h3>
                         <div class="roomCard__price text-white">₹3,000 PER NIGHT</div>
                       </div>
 
@@ -301,7 +297,7 @@ From personalized service to elevated interiors, everything here is designed to 
                   <a href="premier-room.php" data-anim-wrap class="roomCard -type-1 -hover-button-center -image-border">
                     <div data-anim-child="img-right cover-accent-1 delay-1">
                       <div class="roomCard__image ratio ratio-76:62 -hover-button-center__wrap">
-                        <img src="img/rooms/Premier/2.jpg" alt="image" class="img-ratio">
+                        <img src="img/rooms/Premier/17.png" alt="image" class="img-ratio">
 
                         <div class="-image-border__item"></div>
 
@@ -313,7 +309,7 @@ From personalized service to elevated interiors, everything here is designed to 
 
                     <div class="roomCard__content mt-30" data-anim-child="slide-up delay-5">
                       <div class="d-flex justify-between items-center">
-                        <h3 class="roomCard__title text-40 md:text-30 text-white">Premier Room</h3>
+                        <h3 class="roomCard__title text-40 md:text-30 text-white">Premier Rooms</h3>
                         <div class="roomCard__price text-white">₹4,000 PER NIGHT</div>
                       </div>
 
@@ -769,7 +765,40 @@ From personalized service to elevated interiors, everything here is designed to 
             </a>
           </div>
         </div>
+<div class="whatsapp-float">
+  <a href="https://wa.me/919810154702" target="_blank" aria-label="Chat on WhatsApp">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" />
+  </a>
+</div>
 
+<div class="whatsapp-float">
+  <a href="https://wa.me/919810154702" target="_blank" aria-label="Chat on WhatsApp">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" />
+  </a>
+</div>
+
+<style>
+  .whatsapp-float {
+    position: fixed;
+    bottom: 63px;  /* was 20px */
+    right: 63px;   /* was 20px */
+    width: 60px;
+    height: 60px;
+    z-index: 9999;
+  }
+
+  .whatsapp-float img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transition: transform 0.3s;
+  }
+
+  .whatsapp-float img:hover {
+    transform: scale(1.1);
+  }
+</style>s
       </div>
     </section>
 <?php include 'includes/footer.php'; ?>

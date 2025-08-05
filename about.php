@@ -23,7 +23,7 @@
           <div class="col-xl-10 col-lg-11">
             <div data-split='lines' data-anim="split-lines delay-2">
               <div class="text-15 mb-20">
-                Iris Suites LUXURY HOTEL
+                Iris Suites Indulgence HOTEL
               </div>
               <h2 class="text-64 md:text-40 capitalize">
                 Book your room & enjoy<br class="lg:d-none">
@@ -385,7 +385,7 @@
         <div class="row justify-center text-center">
           <div class="col-auto">
             <h2 class="text-92 lg:text-64 md:text-30 text-white">
-              Luxury Awaits.<br class="lg:d-none"> Book Your Stay Today!
+              Indulgence Awaits.<br class="lg:d-none"> Book a stay Today!
             </h2>
 
             <button class="button -md -type-2 bg-accent-2 -accent-1 mx-auto mt-40">BOOK NOW</button>

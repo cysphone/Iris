@@ -8,8 +8,7 @@
         <div class="row justify-center">
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
-              <div class="pageHero__subtitle text-white">₹4,500 PER NIGHT</div>
-              <h1 class="pageHero__title text-white">Business Class Rooms</h1>
+              <h1 class="pageHero__title text-white">Business Class Room</h1>
               <p class="pageHero__text text-white">A spacious, light-filled retreat with a dedicated workspace for seamless business travel.</p>
             </div>
           </div>
@@ -255,7 +254,7 @@
 
 
                 <button type="submit" class="button -md bg-accent-2 -dark-1 w-1/1 mt-40">
-                  BOOK YOUR STAY NOW
+                  Book a stay NOW
                 </button>
               </form>
             </div>

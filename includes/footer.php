@@ -7,7 +7,7 @@
 
               <div class="text-white-60 text-15 lh-17 mt-60 md:mt-20">
                 A thoughtfully designed boutique stay redefining
-                the modern BnB experience with comfort, charm, and quiet luxury.
+                the modern BnB experience with comfort, charm, and quiet Indulgence.
               </div>
             </div>
 

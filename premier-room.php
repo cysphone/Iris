@@ -9,9 +9,8 @@
         <div class="row justify-center">
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
-              <div class="pageHero__subtitle text-white">₹4,000 PER NIGHT</div>
               <h1 class="pageHero__title text-white">Premier Rooms</h1>
-              <p class="pageHero__text text-white">Indulge in luxury in our rooms and suites, featuring stunning views, elegant furnishings, and modern amenities.</p>
+              <p class="pageHero__text text-white">Indulge in Indulgence in our rooms and suites, featuring stunning views, elegant furnishings, and modern amenities.</p>
             </div>
           </div>
         </div>
@@ -51,7 +50,7 @@
             <div class="line -horizontal bg-border mt-50 mb-50"></div>
 
             <p>
-              The Premier Room at Iris Suites invites you into an elevated escape that combines elegance with understated luxury. Designed to welcome natural light and offer calming views of the surrounding landscape, this room provides an atmosphere that inspires both relaxation and clarity.
+              The Premier Room at Iris Suites invites you into an elevated escape that combines elegance with understated Indulgence. Designed to welcome natural light and offer calming views of the surrounding landscape, this room provides an atmosphere that inspires both relaxation and clarity.
               <br><br>
               Every corner reflects a commitment to comfort — from premium furnishings and soft textures to mood-enhancing accents and spacious layouts. The interiors are modern yet timeless, with a warm palette that enhances the feeling of openness and flow.
               <br><br>
@@ -257,7 +256,7 @@
 
 
                 <button type="submit" class="button -md bg-accent-2 -dark-1 w-1/1 mt-40">
-                  BOOK YOUR STAY NOW
+                  Book a stay NOW
                 </button>
               </form>
             </div>
