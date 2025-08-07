@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
     <section data-anim-wrap class="pageHero -type-2 -items-center">
       <div data-anim-child="img-right cover-white delay-1" class="pageHero__bg">
-        <img src="img/pageHero/6.png" alt="image">
+        <img src="img/labanner/1/1.png" alt="image">
       </div>
 
       <div class="container">
@@ -43,7 +43,7 @@
                 <div class="col-lg-auto col-6">
                   <div class="text-center text-white">
                     <i class="d-flex justify-center text-40 icon-phone mb-20"></i>
-                    <div class="fw-500">06:00 am - 22:30 pm</div>
+                    <div class="fw-500">8:00 am - 11:00 pm</div>
                   </div>
                 </div>
 
@@ -62,20 +62,21 @@
     </section>
 
     <section class="layout-pt-lg">
-      <div class="container">
-        <div class="row justify-center">
-          <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-8 col-lg-10">
-            <h2 class="text-40 md:text-30">An integral part of relax and perfect experience of your stay is exceptional gastronomy. Chefs’ team under my leadership prepares daily delicious meals from domestic and international cuisine with love for you.</h2>
+  <div class="container">
+    <div class="row justify-center">
+      <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-8 col-lg-10 text-center">
+        <h2 class="text-40 md:text-30">Savor Moments, One Bite at a Time</h2>
 
-            <p class="lh-17 mt-40">
-              Quality of the food in our hotel starts with buying of quality ingredients and therefore is our cuisine focused on regional producers, growers and farmers.
-              <br><br>
-              Do not expect to be served in 10 minutes, because I lay emphasis particular on preparation, strict adherence to recipes and preservation of traditional practices that have already disappeared from the restaurant. For busy guests we offer daily menu, dinner is served in a rich buffet style. I am looking forward to welcoming you in our hotel restaurant and in Original Restaurant & Wine Bar. ”
-            </p>
-          </div>
-        </div>
+        <p class="lh-17 mt-40">
+          Nestled within the heart of Iris Suites, La Stella offers a refined yet comforting dining escape — where soulful ambiance meets culinary artistry. With soft lighting, warm textures, and thoughtfully curated interiors, every corner whispers calm — making it the perfect space for slow breakfasts, intimate dinners, or quiet conversations over coffee.
+          <br><br><br>
+          Our chefs blend traditional flavors with contemporary flair, presenting a menu that feels both familiar and exciting. Whether you're savoring handcrafted Indian dishes or indulging in global favorites, La Stella promises a dining experience where every detail is designed to nourish — not just your appetite, but your senses.
+        </p>
       </div>
-    </section>
+    </div>
+  </div>
+</section>
+
 
     <div class="layout-pt-lg px-60 sm:px-0">
       <div data-anim-wrap class="relative">
@@ -84,25 +85,49 @@
 
             <div class="swiper-slide">
               <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-2">
-                <img src="img/restSingle/1/1.png" alt="image" class="img-ratio">
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-4">
                 <img src="img/restSingle/1/2.png" alt="image" class="img-ratio">
               </div>
             </div>
 
             <div class="swiper-slide">
-              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-6">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-4">
                 <img src="img/restSingle/1/3.png" alt="image" class="img-ratio">
               </div>
             </div>
 
             <div class="swiper-slide">
-              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-6">
                 <img src="img/restSingle/1/4.png" alt="image" class="img-ratio">
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+                <img src="img/restSingle/1/5.png" alt="image" class="img-ratio">
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+                <img src="img/restSingle/1/6.png" alt="image" class="img-ratio">
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+                <img src="img/restSingle/1/8.png" alt="image" class="img-ratio">
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+                <img src="img/restSingle/1/7.png" alt="image" class="img-ratio">
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="ratio ratio-44:60" data-anim-child="img-right cover-white delay-8">
+                <img src="img/restSingle/1/9.png" alt="image" class="img-ratio">
               </div>
             </div>
 

@@ -10,7 +10,7 @@
           <div class="col-auto">
             <div data-split='lines' data-anim="split-lines delay-3" class="pageHero__content text-center">
               <div class="pageHero__subtitle text-white uppercase mb-20">SINCE 2010</div>
-              <h1 class="pageHero__title lh-11 capitalize text-white">About Iris Suites</h1>
+              <h1 class="pageHero__title lh-11 capitalize text-white">IRIS SUITES – YOUR STAY, REDEFINED</h1>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
           <div class="col-xl-10 col-lg-11">
             <div data-split='lines' data-anim="split-lines delay-2">
               <div class="text-15 mb-20">
-                Iris Suites Indulgence HOTEL
+                Calm Comfort in the Heart of South Delhi
               </div>
               <h2 class="text-64 md:text-40 capitalize">
                 Book your room & enjoy<br class="lg:d-none">
@@ -31,33 +31,37 @@
               </h2>
 
               <p class="lh-17 px-90 lg:px-0 pt-40">
-                Welcome to the best five-star deluxe hotel in New York. Hotel elementum sesue the aucan vestibulum aliquam justo in
-                sapien rutrum volutpat. Donec in quis the pellentesque velit. Hotel ut nisl quam nestibulum. In enim justo,
-                rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-                Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
-              </p>
+                
+              </p>Discover a stay that feels less like a hotel and more like home. Iris Suites offers thoughtfully designed accommodations that
+              balance modern aesthetics with warm hospitality. Located in Kalkaji, one of Delhi’s most well-connected and dynamic neighborhoods,
+              we bring you closer to the city’s business districts, cultural heritage, and everyday conveniences.
+<br><br>
+              Whether you're visiting for work or leisure, Iris Suites is your peaceful retreat amidst the city’s vibrant rhythm.
+              Enjoy seamless check-ins, smart amenities, and a quiet, composed atmosphere — all crafted to make your experience smooth, personal, and memorable.
+
+
             </div>
 
             <div class="row y-gap-30 justify-between pt-60 md:pt-40">
 
               <div data-split='lines' data-anim="split-lines delay-7" class="col-auto">
-                <h3 class="text-64 md:text-30">12m+</h3>
+                <h3 class="text-64 md:text-30">1000+</h3>
                 <div class="uppercase lh-1 mt-20">Happy Customers</div>
               </div>
 
               <div data-split='lines' data-anim="split-lines delay-9" class="col-auto">
-                <h3 class="text-64 md:text-30">22</h3>
-                <div class="uppercase lh-1 mt-20">Luxe ROOMS</div>
+                <h3 class="text-64 md:text-30">9</h3>
+                <div class="uppercase lh-1 mt-20">Premier Rooms</div>
               </div>
 
               <div data-split='lines' data-anim="split-lines delay-11" class="col-auto">
-                <h3 class="text-64 md:text-30">14</h3>
-                <div class="uppercase lh-1 mt-20">PRIVATE POOL</div>
+                <h3 class="text-64 md:text-30">4</h3>
+                <div class="uppercase lh-1 mt-20">Superior Rooms</div>
               </div>
 
               <div data-split='lines' data-anim="split-lines delay-13" class="col-auto">
-                <h3 class="text-64 md:text-30">17</h3>
-                <div class="uppercase lh-1 mt-20">RESTAURANTS</div>
+                <h3 class="text-64 md:text-30">1</h3>
+                <div class="uppercase lh-1 mt-20">Rooftop Restaurant</div>
               </div>
 
             </div>
@@ -75,13 +79,13 @@
 
           <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-5 col-lg-6">
             <h3 class="text-40 md:text-30 capitalize">
-              Sophisticated Comfort
+            LA STELLA – ELEVATE YOUR EVENINGS
             </h3>
 
             <p class="lh-17 pt-40">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+              Step into La Stella, Iris Suites’ exclusive rooftop lounge where the sky meets serenity. Whether it's a breezy evening under the stars or a cozy corner for late-night conversations,
               <br><br>
-              Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+               La Stella offers a curated atmosphere, handcrafted cocktails, and a skyline view that makes every moment unforgettable. Perfect for unwinding, dining, and experiencing Delhi from a whole new height.
             </p>
           </div>
         </div>
@@ -93,178 +97,131 @@
 
           <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-5 col-lg-6">
             <h3 class="text-40 md:text-30 capitalize">
-              A Unique Experience
+              IRIS SUITES – STAY WHERE PEACE RESIDES
             </h3>
 
             <p class="lh-17 pt-40">
-              Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+              Designed for the modern traveler, Iris Suites blends calm sophistication with everyday comfort. Nestled in the heart of South Delhi, our rooms offer more than just a place to sleep —
+              they provide a haven to recharge, reflect, and reconnect. Whether you’re on a business trip or a relaxing getaway, Iris Suites is your home away from home.
             </p>
           </div>
         </div>
       </div>
     </section>
-
-    <section class="layout-pt-lg layout-pb-lg bg-light-1">
-      <div data-anim-wrap class="container">
-        <div class="row justify-center text-center">
-          <div data-split='lines' data-anim-child="split-lines delay-2" class="col-auto">
-            <div class="text-15 uppercase mb-30 sm:mb-10">OUR SERVICES</div>
-            <h2 class="text-64 md:text-40">Hotel Facilities</h2>
-          </div>
-        </div>
-
-        <div class="row y-gap-40 justify-between pt-100 sm:pt-50">
-
-          <div data-anim-child="slide-up delay-4" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-wifi"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Wifi &amp; Internet</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-5" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bus"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Airport Transfer</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-6" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-tv"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Smart TV</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-7" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-bed"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Breakfast in Bed</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-8" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-laundry"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Laundry Services</h4>
-            </div>
-          </div>
-
-          <div data-anim-child="slide-up delay-9" class="col-lg-auto col-md-4 col-6">
-            <div class="iconCard -type-1 -hover-1 text-center">
-              <div class="iconCard__icon text-50">
-                <div class="iconCard__icon__circle bg-white"></div>
-                <i class="icon-housekeeper"></i>
-              </div>
-              <h4 class="text-24 sm:text-21 lh-1 mt-30 sm:mt-15">Housekeeper Services</h4>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
+<?php include 'includes/facilities.php'; ?>
     <section class="layout-pt-lg layout-pb-lg">
       <div data-anim-wrap class="container">
         <div class="row justify-center text-center">
-          <div data-split='lines' data-anim="split-lines delay-1" class="col-auto">
+          <div data-anim-child="slide-up delay-1" class="col-auto">
             <div class="text-15 uppercase mb-30 sm:mb-10">There's So Much to Discover</div>
-            <h2 class="text-64 md:text-40">The Discover</h2>
+            <h2 class="text-64 md:text-40">Unforgettable Experience</h2>
           </div>
         </div>
 
-        <div class="overflow-hidden pt-100 sm:pt-50 js-section-slider" data-gap="30" data-slider-cols="xl-3 lg-3 md-2 sm-1 base-1" data-pagination="js-slider2-pagination">
+        <div class="overflow-hidden pt-100 sm:pt-50 js-section-slider" data-gap="30" data-slider-cols="xl-4 lg-4 md-3 sm-2 base-1" data-pagination="js-slider2-pagination">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/1.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/mazKmwEqyJnvEZFL9" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-2" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/1.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-restaurant text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Restaurant Delfino</h4>
+                  <h4 class="text-30 md:text-25 text-white">Lotus Temples</h4>
+                  <div class="text-white mt-10">Architectural peace and silence</div>
                 </div>
               </a>
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/2.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/mGzmHf7sy9yeZ2gV9" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-4" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/2.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-rocks text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Spa &amp; Wellness</h4>
+                  <h4 class="text-30 md:text-25 text-white">Kalkaji Temple</h4>
+                  <div class="text-white mt-10">Spiritual energy and tradition</div>
                 </div>
               </a>
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/3.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/mpuHCmdG2khfjRPS6" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-6" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/3.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-gym text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Fitness Center</h4>
+                  <h4 class="text-30 md:text-25 text-white">NSIC Exhibition Ground</h4>
+                  <div class="text-white mt-10">Events, expos, and culture</div>
                 </div>
               </a>
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/4.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/vHGskmuqjDy7dbHQ7" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-8" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/4.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-restaurant text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Restaurant Delfino</h4>
+                  <h4 class="text-30 md:text-25 text-white">Nehru Place Market</h4>
+                  <div class="text-white mt-10">Tech, street food, and buzz</div>
                 </div>
               </a>
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/5.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/HiES293Mt4tC1qdJA" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img/rooms/bottom images/5.png" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/5.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-rocks text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Spa &amp; Wellness</h4>
+                  <h4 class="text-30 md:text-25 text-white">Iskcon Temple</h4>
+                  <div class="text-white mt-10">Chants, culture, and soul food</div>
                 </div>
               </a>
             </div>
 
             <div class="swiper-slide">
-              <a href="#" class="baseCard -type-1 -padding-lg">
-                <div class="baseCard__image ratio ratio-45:54">
-                  <img src="img/about/18/6.png" alt="image" class="img-ratio">
+              <a href="https://maps.app.goo.gl/PU11zvkmxMisSrho9" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-12" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/6.png" alt="image" class="img-ratio">
+                  </div>
                 </div>
 
                 <div class="baseCard__content d-flex flex-column justify-end text-center">
-                  <div class="icon-gym text-40 text-white mb-20"></div>
-                  <h4 class="text-30 md:text-25 text-white">Fitness Center</h4>
+                  <h4 class="text-30 md:text-25 text-white">Tughlaqabad Fort</h4>
+                  <div class="text-white mt-10">Ruins, history, and views</div>
+                </div>
+              </a>
+            </div>
+
+            <div class="swiper-slide">
+              <a href="https://maps.app.goo.gl/tTPhx4Z7cZwcA86X6" class="baseCard -type-1 -hover-image-scale">
+                <div class="-hover-image-scale__image">
+                  <div data-anim-child="img-right cover-white delay-14" class="baseCard__image ratio ratio-33:45">
+                    <img src="img/roomsSingle/7.png" alt="image" class="img-ratio">
+                  </div>
+                </div>
+
+                <div class="baseCard__content d-flex flex-column justify-end text-center">
+                  <h4 class="text-30 md:text-25 text-white">Kiran Nadar Museum of Art</h4>
+                  <div class="text-white mt-10">Art, calm, and creativity</div>
                 </div>
               </a>
             </div>
@@ -388,7 +345,7 @@
               Indulgence Awaits.<br class="lg:d-none"> Book a stay Today!
             </h2>
 
-            <button class="button -md -type-2 bg-accent-2 -accent-1 mx-auto mt-40">BOOK NOW</button>
+            <a href="rooms.php" class="button -md -type-2 bg-accent-2 -accent-1 mx-auto mt-40">BOOK NOW</a>
           </div>
         </div>
       </div>
