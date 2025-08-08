@@ -59,7 +59,7 @@
       <div class="menuFullScreen-links js-menuFullScreen-links">
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href=".php">
+          <a href="about.php">
             ABOUT
           </a>
         </div>
