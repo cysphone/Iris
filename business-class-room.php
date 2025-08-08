@@ -7,10 +7,15 @@
       <div class="container">
         <div class="row justify-center">
           <div class="col-auto">
-            <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
-              <h1 class="pageHero__title text-white">Business Class Room</h1>
-              <p class="pageHero__text text-white">A spacious, light-filled retreat with a dedicated workspace for seamless business travel.</p>
-            </div>
+<div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
+  <h1 class="pageHero__title text-white" style="text-shadow: 2px 2px 6px rgba(0,0,0,0.6);">
+    Business Class Room
+  </h1>
+  <h3 class="pageHero__text text-white" style="text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">
+    A spacious, light-filled retreat with a dedicated workspace for seamless business travel.
+</h3>
+</div>
+
           </div>
         </div>
       </div>

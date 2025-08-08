@@ -342,7 +342,7 @@
         <div class="row justify-center text-center">
           <div class="col-auto">
             <h2 class="text-92 lg:text-64 md:text-30 text-white">
-              Indulgence Awaits.<br class="lg:d-none"> Book a stay Today!
+              Indulgence Awaits.<br class="lg:d-none"> Book a Stay today!
             </h2>
 
             <a href="rooms.php" class="button -md -type-2 bg-accent-2 -accent-1 mx-auto mt-40">BOOK NOW</a>

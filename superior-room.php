@@ -9,10 +9,15 @@
           <div class="col-auto">
             <div class="pageHero__content text-center" data-split='lines' data-anim-child="split-lines delay-3">
   
-              <h1 class="pageHero__title lh-11 capitalize text-white">Superior Rooms</h1>
-              </h1>
-              <p class="pageHero__text text-white">A peaceful, well-appointed space designed for quiet comfort and effortless stays.</p>
-            </div>
+  <h1 class="pageHero__title lh-11 capitalize text-white" style="text-shadow: 2px 2px 6px rgba(0,0,0,0.6);">
+    Superior Rooms
+  </h1>
+  
+  <h3 class="pageHero__text text-white" style="text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">
+    A peaceful, well-appointed space designed for quiet comfort and effortless stays.
+</h3>
+
+</div>
           </div>
         </div>
       </div>
