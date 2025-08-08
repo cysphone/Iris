@@ -2,7 +2,7 @@
 
     <section data-anim-wrap class="pageHero -type-2 -items-center">
       <div data-anim-child="img-right cover-white delay-1" class="pageHero__bg">
-        <img src="img/pageHero/4.png" alt="image">
+        <img src="img/pageHero/top.png" alt="image">
       </div>
 
       <div class="container">
@@ -74,7 +74,7 @@
       <div class="container">
         <div data-anim-wrap class="row y-gap-40 justify-between items-center">
           <div data-anim="img-right cover-white delay-1" class="col-xl-6 col-lg-6">
-            <img src="img/about/6/1.png" alt="image">
+            <img src="img/about/6/20.png" alt="image">
           </div>
 
           <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-5 col-lg-6">
@@ -92,7 +92,7 @@
 
         <div data-anim-wrap class="row y-gap-40 justify-between items-center pt-100 sm:pt-50">
           <div data-anim="img-right cover-white delay-1" class="col-xl-6 col-lg-6">
-            <img src="img/about/6/2.png" alt="image">
+            <img src="img/about/6/10.png" alt="image">
           </div>
 
           <div data-split='lines' data-anim="split-lines delay-3" class="col-xl-5 col-lg-6">
@@ -335,7 +335,7 @@
 
     <section class="cta -type-1">
       <div class="cta__bg">
-        <img src="img/cta/4/1.png" alt="image">
+        <img src="img/pageHero/bottom.png" alt="image">
       </div>
 
       <div class="container">
