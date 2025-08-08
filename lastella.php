@@ -881,4 +881,5 @@
         </div>
       </div>
     </section>
+    <?php include 'includes/instagram.php'; ?>    
 <?php include 'includes/footer.php'; ?>

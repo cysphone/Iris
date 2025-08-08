@@ -36,16 +36,16 @@
         </a>
       </div>
 
-      <button class="button text-white mr-30 lg:mr-0">
-        KALKAJI <i class="icon-chevron-down ml-15"></i>
-      </button>
+      <a href="https://maps.app.goo.gl/oYqBdvWZ2h49D7w67" class="button text-white mr-30 xl:mr-0">
+    Kalkaji<i class="icon-location ml-15"></i>
+  </a>
     </div>
 
     <div class="menuFullScreen__mobile__bg js-menuFullScreen-mobile-bg"></div>
 
     <div class="menuFullScreen__left">
       <div class="menuFullScreen__bg js-menuFullScreen-bg">
-        <img src="img/hero/1/bg.png" alt="image">
+        <img src="img/hero/1/2.png" alt="image">
       </div>
 
       <button class="menuFullScreen__close js-menuFullScreen-toggle js-menuFullScreen-close-btn">
@@ -59,8 +59,8 @@
       <div class="menuFullScreen-links js-menuFullScreen-links">
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="index.php">
-            HOME
+          <a href=".php">
+            ABOUT
           </a>
         </div>
 
@@ -94,20 +94,7 @@
 
         </div>
 
-        <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
-          <a href="about.php">
-            ABOUT
-          </a>
-
-
-          <div class="menuFullScreen-links-subnav js-menuFullScreen-subnav">
-
-       
-
-          </div>
-
-
-        </div>
+        
 
         <div class="menuFullScreen-links__item js-menuFullScreen-has-children">
           <a href="lastella.php">
@@ -231,9 +218,9 @@
         </div>
 
         <div class="header__right d-flex items-center h-full">
-          <button class="button text-white mr-30 xl:mr-0">
-            Kalkaji <i class="icon-chevron-down ml-15"></i>
-          </button>
+          <a href="https://maps.app.goo.gl/oYqBdvWZ2h49D7w67" class="button text-white mr-30 xl:mr-0">
+    Kalkaji<i class="icon-location ml-15"></i>
+  </a>
 
           <div class="line -vertical bg-white-10 h-full ml-90 mr-90 xl:d-none"></div>
 

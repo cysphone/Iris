@@ -67,7 +67,7 @@
                     </a>
 
                     <a class="d-block" href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8">
-                      Get Directions
+                      How to Reach
                     </a>
                     <a class="d-block" href="faq.php">
                       FAQ
@@ -96,7 +96,7 @@
         <div class="container">
           <div class="row y-gap-30 justify-between md:justify-center items-center">
             <div class="col-md-auto">
-              <div class="text-15 text-center text-white-60">Copyright © Iris Suites 2025</div>
+              <div class="text-15 text-center text-white-60">Developed & Managed by Unwind Hospitality PVT. LTD.</div>
             </div>
 
             <div class="col-md-auto">
