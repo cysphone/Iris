@@ -410,12 +410,12 @@ From personalized service to elevated interiors, everything here is designed to 
                   <div class="imageGrid -type-1">
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-1">
-                        <img src="img/cards/rooms/3/1.png" alt="image" class="">
+                        <img src="img/about/2/2.png" alt="image" class="">
                       </div>
                     </div>
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-3">
-                        <img src="img/cards/rooms/4/1.png" alt="image" class="">
+                        <img src="img/about/2/1.png" alt="image" class="">
                       </div>
                     </div>
                   </div>
@@ -425,12 +425,12 @@ From personalized service to elevated interiors, everything here is designed to 
                   <div class="imageGrid -type-1">
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-1">
-                        <img src="img/cards/rooms/3/3.png" alt="image" class="">
+                        <img src="img/about/2/2.png" alt="image" class="">
                       </div>
                     </div>
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-3">
-                        <img src="img/cards/rooms/4/2.png" alt="image" class="">
+                        <img src="img/about/2/1.png" alt="image" class="">
                       </div>
                     </div>
                   </div>
@@ -440,12 +440,12 @@ From personalized service to elevated interiors, everything here is designed to 
                   <div class="imageGrid -type-1">
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-1">
-                        <img src="img/cards/rooms/3/5.png" alt="image" class="">
+                        <img src="img/about/2/2.png" alt="image" class="">
                       </div>
                     </div>
                     <div>
                       <div data-anim-child="img-right cover-accent-2 delay-3">
-                        <img src="img/cards/rooms/4/3.png" alt="image" class="">
+                        <img src="img/about/2/1.png" alt="image" class="">
                       </div>
                     </div>
                   </div>
