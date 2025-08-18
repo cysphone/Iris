@@ -457,7 +457,7 @@ From personalized service to elevated interiors, everything here is designed to 
             <div class="col-xl-4 col-lg-5 lg:order-1">
               <div class="hoverTitleInteraction__links">
                 <a href="lastella.php" class="hoverTitle text-sec text-52 md:text-40 fw-500">
-                  La Stell Restaurant
+                  La Stella Restaurant
                   <i class="icon-arrow-right text-40 ml-50"></i>
                 </a>
 
