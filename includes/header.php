@@ -36,7 +36,7 @@
         </a>
       </div>
 
-      <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="button text-white mr-30 xl:mr-0">
+      <a href="https://maps.app.goo.gl/K66fFHMYi6a8Fqcu9" class="button text-white mr-30 xl:mr-0">
     Kalkaji<i class="icon-location ml-15"></i>
   </a>
     </div>
