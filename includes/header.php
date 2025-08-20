@@ -36,7 +36,7 @@
         </a>
       </div>
 
-      <a href="https://maps.app.goo.gl/K66fFHMYi6a8Fqcu9" class="button text-white mr-30 xl:mr-0">
+      <a href="https://www.google.com/maps/place/iris+SUITES/@28.5410096,77.2546095,136m/data=!3m1!1e3!4m9!3m8!1s0x390ce34c872d2ced:0x1c353af0cc7de006!5m2!4m1!1i2!8m2!3d28.5411582!4d77.2546778!16s%2Fg%2F11xtmqsw25?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D" class="button text-white mr-30 xl:mr-0">
     Kalkaji<i class="icon-location ml-15"></i>
   </a>
     </div>
