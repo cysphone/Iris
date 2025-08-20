@@ -61,7 +61,7 @@
 
               <div data-split='lines' data-anim="split-lines delay-13" class="col-auto">
                 <h3 class="text-64 md:text-30">1</h3>
-                <div class="uppercase lh-1 mt-20">Rooftop Restaurant</div>
+                <div class="uppercase lh-1 mt-20">Business Class Room</div>
               </div>
 
             </div>
