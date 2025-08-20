@@ -113,7 +113,7 @@
             </div>
 
             <button class="button -md -type-2 bg-accent-2 -light-1 mt-40">
-              <a class="d-block" href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8">
+              <a class="d-block" href="https://maps.app.goo.gl/K66fFHMYi6a8Fqcu9">
                       Get Directions
                     </a>
             </button>
