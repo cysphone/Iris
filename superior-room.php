@@ -96,10 +96,10 @@
             <div class="row x-gap-50 y-gap-20 pt-40">
               <div class="col-sm-6">
                 <ul class="ulList -type-1">
-                <li>✈️ Indira Gandhi International Airport – approx. 11 km away for smooth travel</li>
-  <li>🚇 Hauz Khas Metro Station – just 1.7 km for fast metro access</li>
-  <li>🏛️ Qutub Minar – only 4.4 km to the historic monument</li>
-  <li>💼 Nehru Place – 5 km to one of Delhi’s busiest business hubs</li>
+                <li>✈️ Indira Gandhi International Airport – approx. 16 km away for smooth travel</li>
+                 <li>💼 Nehru Place – 1.4 km to one of Delhi’s busiest business hubs</li>
+  <li>🚇 Hauz Khas Metro Station – just 6.5 km for fast metro access</li>
+  <li>🏛️ Qutub Minar – only 8.6 km to the historic monument</li>
   <li>🍽️ In-House Restaurant – satisfying meals just steps from your room</li>
                 </ul>
               </div>

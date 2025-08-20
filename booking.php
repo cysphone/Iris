@@ -2,14 +2,19 @@
 
     <section data-anim-wrap class="pageHero -type-1 -items-center">
       <div data-anim-child="img-right cover-white delay-1" class="pageHero__bg">
-        <img src="img/pageHero/1.png" alt="image">
+        <img src="img/rooms/BUSINESS CLASS/4.jpg" alt="image">
       </div>
 
       <div class="container">
         <div class="row justify-center">
           <div class="col-auto">
             <div data-split='lines' data-anim-child="split-lines delay-3" class="pageHero__content text-center">
-              <h1 class="pageHero__title text-white">Booking Page</h1>
+<h1 class="pageHero__title capitalize text-white"
+    style="text-shadow: 2px 2px 6px rgba(0,0,0,0.6);
+           line-height: 1.3;
+           margin-bottom: 8px;">
+  Booking Page
+</h1>
               <p class="pageHero__text text-white">Your next stay starts here — simple, seamless, and secure.</p>
             </div>
           </div>
@@ -25,7 +30,7 @@
 
             <div class="row y-gap-30 items-center">
               <div class="col-md-auto col-12">
-                <img src="img/roomsSingle/3/1.png" alt="image" class="col-md-auto col-12">
+                <img src="img/rooms/Premier/2.jpg" alt="image" class="col-md-auto col-12">
               </div>
 
               <div class="col-sm">

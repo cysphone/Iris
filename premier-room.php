@@ -92,6 +92,20 @@
 
 
             <div class="line -horizontal bg-border mt-50 mb-50"></div>
+            <h2 class="text-40">City Access</h2>
+            <div class="row x-gap-50 y-gap-20 pt-40">
+              <div class="col-sm-6">
+                <ul class="ulList -type-1">
+                <li>✈️ Indira Gandhi International Airport – approx. 16 km away for smooth travel</li>
+                 <li>💼 Nehru Place – 1.4 km to one of Delhi’s busiest business hubs</li>
+  <li>🚇 Hauz Khas Metro Station – just 6.5 km for fast metro access</li>
+  <li>🏛️ Qutub Minar – only 8.6 km to the historic monument</li>
+  <li>🍽️ In-House Restaurant – satisfying meals just steps from your room</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="line -horizontal bg-border mt-50 mb-50"></div>
             <h2 class="text-40">Room Rules</h2>
             <ul class="ulList -type-1 pt-40">
               <li>Check-in from 12:00 PM - anytime</li>
