@@ -16,7 +16,7 @@
 
               <div class="d-flex flex-column mt-60 md:mt-20">
                 <div class="">
-                  <a class="d-block text-15 text-white-60 lh-17" href="https://maps.app.goo.gl/K66fFHMYi6a8Fqcu9">
+                  <a class="d-block text-15 text-white-60 lh-17" href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5">
                     Block F-19, Near Deshbandhu College, Kalkaji, New Delhi - 110019
                   </a>
                 </div>
@@ -66,7 +66,7 @@
                       Terms &amp; Conditions
                     </a>
 
-                    <a class="d-block" href="https://maps.app.goo.gl/K66fFHMYi6a8Fqcu9">
+                    <a class="d-block" href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5">
                       How to Reach
                     </a>
                     <a class="d-block" href="faq.php">

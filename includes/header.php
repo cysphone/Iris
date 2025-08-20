@@ -36,7 +36,7 @@
         </a>
       </div>
 
-      <a href="https://www.google.com/maps/place/iris+SUITES/@28.5410096,77.2546095,136m/data=!3m1!1e3!4m9!3m8!1s0x390ce34c872d2ced:0x1c353af0cc7de006!5m2!4m1!1i2!8m2!3d28.5411582!4d77.2546778!16s%2Fg%2F11xtmqsw25?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D" class="button text-white mr-30 xl:mr-0">
+      <a href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5">
     Kalkaji<i class="icon-location ml-15"></i>
   </a>
     </div>
@@ -126,7 +126,7 @@
             Location
           </div>
           <div class="mt-10">
-  <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="text-black" style="text-decoration: none;">
+  <a href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5" class="text-black" style="text-decoration: none;">
     Block F-19, Near Deshbandhu College,<br>
     Kalkaji, New Delhi - 110019
   </a>
@@ -168,7 +168,7 @@
         <span>+91 9810154702</span>
       </a>
 
-      <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="d-flex mt-20">
+      <a href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5" class="d-flex mt-20">
         <i class="icon-map mr-10"></i>
         <span>
           Block F-19, Near Deshbandhu College,<br>
@@ -218,7 +218,7 @@
         </div>
 
         <div class="header__right d-flex items-center h-full">
-          <a href="https://maps.app.goo.gl/CUNHvXVzGMLSdmva8" class="button text-white mr-30 xl:mr-0">
+          <a href="https://maps.app.goo.gl/BMvxZfjjzuMDk1Kt5" class="button text-white mr-30 xl:mr-0">
     Kalkaji<i class="icon-location ml-15"></i>
   </a>
 
