@@ -2436,12 +2436,12 @@ function liveSearch() {
 
   const data = [
     { icon: "icon-pin", title: "Phuket", text: "Thailand, Asia" },
-    { icon: "icon-price-tag", title: "London Day Trips", text: "England" },
+    { icon: "icon-price-tag", title: "New Delhi Day Trips", text: "England" },
     { icon: "icon-flag", title: "Europe", text: "Country" },
     { image: "img/misc/icon.png", title: "Centipede Tour - Guided Arizona Desert Tour by ATV", text: "Country" },
     { icon: "icon-pin", title: "Istanbul", text: "Turkey" },
     { icon: "icon-pin", title: "Berlin", text: "Germany, Europe" },
-    { icon: "icon-pin", title: "London", text: "England, Europe" },
+    { icon: "icon-pin", title: "New Delhi", text: "England, Europe" },
   ]
 
   targets.forEach(el => {

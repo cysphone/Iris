@@ -274,7 +274,7 @@
                 <div class="swiper-slide">
                   <div class="text-center">
                     <div class="text-sec text-40 md:text-24">
-                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in London is one of them.”
+                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in New Delhi is one of them.”
                     </div>
                     <div class="mt-50">Ali Tufan - Trip Advisor</div>
                   </div>
@@ -283,7 +283,7 @@
                 <div class="swiper-slide">
                   <div class="text-center">
                     <div class="text-sec text-40 md:text-24">
-                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in London is one of them.”
+                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in New Delhi is one of them.”
                     </div>
                     <div class="mt-50">Ali Tufan - Trip Advisor</div>
                   </div>
@@ -292,7 +292,7 @@
                 <div class="swiper-slide">
                   <div class="text-center">
                     <div class="text-sec text-40 md:text-24">
-                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in London is one of them.”
+                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in New Delhi is one of them.”
                     </div>
                     <div class="mt-50">Ali Tufan - Trip Advisor</div>
                   </div>
@@ -301,7 +301,7 @@
                 <div class="swiper-slide">
                   <div class="text-center">
                     <div class="text-sec text-40 md:text-24">
-                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in London is one of them.”
+                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in New Delhi is one of them.”
                     </div>
                     <div class="mt-50">Ali Tufan - Trip Advisor</div>
                   </div>
@@ -310,7 +310,7 @@
                 <div class="swiper-slide">
                   <div class="text-center">
                     <div class="text-sec text-40 md:text-24">
-                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in London is one of them.”
+                      “Some places are so good to stay in, you don&#39;t want to generate a rush on them. The Iris Suites lodge hotel in New Delhi is one of them.”
                     </div>
                     <div class="mt-50">Ali Tufan - Trip Advisor</div>
                   </div>
