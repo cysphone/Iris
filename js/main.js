@@ -1699,11 +1699,23 @@ window.onclick = function(event) {
 }
 
 const Calendar = (function() {
-  const startYear = 2024
-  const startMonth = 1
-  const monthRange = 12
-  const weekDaysOrder = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ]
-  let calendarEl
+  // const startYear = 2025
+  // const startMonth = 9
+  // const monthRange = 12
+  // const weekDaysOrder = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ]
+  // let calendarEl
+
+  const today = new Date();
+
+  // Automatically fetch current year & month
+  const startYear = today.getFullYear();
+  const startMonth = today.getMonth(); // 0 = January, 11 = December
+
+  // Keep other settings same
+  const monthRange = 12;
+  const weekDaysOrder = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ];
+
+  let calendarEl;
 
   function updateVars() {
     calendarEl = document.querySelectorAll('.js-calendar-el')
